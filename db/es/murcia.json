@@ -1,0 +1,551 @@
+[
+  {
+    "name": "Revive FM",
+    "freq": "FM",
+    "mhz": "87.5",
+    "img": "es/images/revive.gif",
+    "live": "http://fb.com/Revive-FM-875-115891905139978/",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "88.0",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "88.9",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Energía FM",
+    "freq": "FM",
+    "mhz": "89.3",
+    "img": "es/images/energia-murcia.gif",
+    "live": "es/play/mc_energia.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "89.7",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Muy Buena",
+    "freq": "FM",
+    "mhz": "90.0",
+    "img": "es/images/muybuena.gif",
+    "live": "es/play/mc_muybuena_murcia.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "La Mega Radio",
+    "freq": "FM",
+    "mhz": "90.3",
+    "img": "es/images/lamega-zaragoza.gif",
+    "live": "http://fb.com/LaMegaZaragoza",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "91.3",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Radio Murcia",
+    "freq": "FM",
+    "mhz": "91.6",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_murcia-mas.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "91.8",
+    "img": "es/images/es.svg",
+    "live": "es/play/es.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "92.1",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "92.4",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "92.9",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_murcia.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Sensación FM",
+    "freq": "FM",
+    "mhz": "93.3",
+    "img": "es/images/sensacion.gif",
+    "live": "es/play/mc_sensacion.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Bikini FM",
+    "freq": "FM",
+    "mhz": "93.9",
+    "img": "es/images/bikini.gif",
+    "live": "es/play/mc_bikini_murcia.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Flow Radio",
+    "freq": "FM",
+    "mhz": "94.3",
+    "img": "es/images/flow.gif",
+    "live": "http://flowradio.es/",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Olímpica Stéreo",
+    "freq": "FM",
+    "mhz": "94.4",
+    "img": "es/images/olimpica-stereo.gif",
+    "live": "es/play/mc_olimpica-stereo.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "SuperMix Radio",
+    "freq": "FM",
+    "mhz": "94.6",
+    "img": "es/images/supermix.gif",
+    "live": "es/play/mc_supermix.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Viva Murcia Radio",
+    "freq": "FM",
+    "mhz": "94.8",
+    "img": "es/images/viva-murcia.gif",
+    "live": "http://fb.com/profile.php?id=100063480282919",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "SuperMix Radio",
+    "freq": "FM",
+    "mhz": "95.0",
+    "img": "es/images/supermix.gif",
+    "live": "es/play/mc_supermix.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Solidaria",
+    "freq": "FM",
+    "mhz": "95.3",
+    "img": "es/images/solidaria.gif",
+    "live": "es/play/solidaria.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Murcia FM",
+    "freq": "FM",
+    "mhz": "95.5",
+    "img": "es/images/murciafm.gif",
+    "live": "es/play/mc_murciafm.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Loca Urban",
+    "freq": "FM",
+    "mhz": "95.7",
+    "img": "es/images/loca-urban.gif",
+    "live": "es/play/loca-urban.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "96.0",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Inter",
+    "freq": "FM",
+    "mhz": "96.7",
+    "img": "es/images/inter.gif",
+    "live": "es/play/inter.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "motiva",
+    "freq": "FM",
+    "mhz": "96.9",
+    "img": "es/images/motiva.gif",
+    "live": "es/play/vc_motiva.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "MDT Radio",
+    "freq": "FM",
+    "mhz": "97.1",
+    "img": "es/images/mdt.gif",
+    "live": "es/play/vc_mdt.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "97.7",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_murcia.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Éxito Radio",
+    "freq": "FM",
+    "mhz": "97.9",
+    "img": "es/images/exito.gif",
+    "live": "es/play/exito.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "98.2",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Azul FM",
+    "freq": "FM",
+    "mhz": "98.6",
+    "img": "es/images/azul.gif",
+    "live": "es/play/mc_azul.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Compañía",
+    "freq": "FM",
+    "mhz": "98.8",
+    "img": "es/images/compania.gif",
+    "live": "es/play/mc_compania.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "99.3",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Thader Radio",
+    "freq": "FM",
+    "mhz": "99.6",
+    "img": "es/images/thader.gif",
+    "live": "es/play/mc_thader.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Onda Regional de Murcia",
+    "freq": "FM",
+    "mhz": "99.9",
+    "img": "es/images/rtrm-orm.gif",
+    "live": "es/play/rtrm-orm.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Murcia",
+    "freq": "FM",
+    "mhz": "100.3",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_murcia.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "COPE Murcia",
+    "freq": "FM",
+    "mhz": "100.6",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_murcia.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "101.0",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Informa Radio",
+    "freq": "FM",
+    "mhz": "101.5",
+    "img": "es/images/informa.gif",
+    "live": "es/play/informa.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "101.7",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Humor",
+    "freq": "FM",
+    "mhz": "102.1",
+    "img": "es/images/humor.gif",
+    "live": "es/play/mc_humor.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Nuevo Tiempo",
+    "freq": "FM",
+    "mhz": "102.4",
+    "img": "us/images/hope.gif",
+    "live": "es/play/nuevotiempo.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Vida",
+    "freq": "FM",
+    "mhz": "102.8",
+    "img": "es/images/vida-murcia.gif",
+    "live": "es/play/mc_vida.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Sión",
+    "freq": "FM",
+    "mhz": "103.1",
+    "img": "es/images/sion.gif",
+    "live": "es/play/mc_sion.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "103.5",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Color Estéreo",
+    "freq": "FM",
+    "mhz": "103.7",
+    "img": "es/images/color-stereo.gif",
+    "live": "es/play/mc_color-stereo.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "103.9",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Vida FM",
+    "freq": "FM",
+    "mhz": "104.7",
+    "img": "es/images/vida-madrid.gif",
+    "live": "es/play/vida.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Vida",
+    "freq": "FM",
+    "mhz": "105.0",
+    "img": "es/images/vida-murcia.gif",
+    "live": "es/play/mc_vida.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Onda Regional de Murcia",
+    "freq": "FM",
+    "mhz": "105.3",
+    "img": "es/images/rtrm-orm.gif",
+    "live": "es/play/rtrm-orm.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Sensación FM",
+    "freq": "FM",
+    "mhz": "105.6",
+    "img": "es/images/sensacion.gif",
+    "live": "es/play/mc_sensacion.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Onda Regional Música",
+    "freq": "FM",
+    "mhz": "105.9",
+    "img": "es/images/rtrm-orm.gif",
+    "live": "es/play/rtrm-ormusica.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Spectrum FM",
+    "freq": "FM",
+    "mhz": "106.3",
+    "img": "es/images/spectrum.gif",
+    "live": "es/play/spectrum_costacalida.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Decisión Radio",
+    "freq": "FM",
+    "mhz": "106.5",
+    "img": "es/images/decision.gif",
+    "live": "es/play/decision.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Murcia",
+    "freq": "FM",
+    "mhz": "106.9",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_murcia.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Voz FM",
+    "freq": "FM",
+    "mhz": "107.2",
+    "img": "es/images/voz1072.gif",
+    "live": "es/play/mc_voz1072.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Intereconomía",
+    "freq": "FM",
+    "mhz": "107.8",
+    "img": "es/images/intereconomia.svg",
+    "live": "es/play/intereconomia.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "567",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "COPE Murcia",
+    "freq": "OM",
+    "mhz": "711",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_murcia.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "855",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Murcia",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Murcia",
+    "freq": "OM",
+    "mhz": "1260",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_murcia.htm",
+    "city": "Murcia",
+    "country": "es"
+  }
+]

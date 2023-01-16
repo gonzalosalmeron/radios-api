@@ -1,0 +1,686 @@
+[
+  {
+    "name": "Top Remember Radio",
+    "freq": "FM",
+    "mhz": "87.5",
+    "img": "es/images/topremember.gif",
+    "live": "es/play/vc_topremember.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Candy FM",
+    "freq": "FM",
+    "mhz": "87.7",
+    "img": "es/images/peque.gif",
+    "live": "http://www.pequeradio.es/",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "On Radio",
+    "freq": "FM",
+    "mhz": "88.0",
+    "img": "es/images/on.gif",
+    "live": "es/play/vc_on.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "88.2",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Aire Latino",
+    "freq": "FM",
+    "mhz": "88.5",
+    "img": "es/images/airelatino.gif",
+    "live": "es/play/vc_airelatino.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Mislata Ràdio",
+    "freq": "FM",
+    "mhz": "88.8",
+    "img": "es/images/mislata.gif",
+    "live": "es/play/vc_mislata.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Melodía FM",
+    "freq": "FM",
+    "mhz": "89.0",
+    "img": "es/images/melodia.svg",
+    "live": "es/play/melodia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Bikini FM",
+    "freq": "FM",
+    "mhz": "89.2",
+    "img": "es/images/bikini.gif",
+    "live": "es/play/vc_bikini_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Éxito Radio",
+    "freq": "FM",
+    "mhz": "89.5",
+    "img": "es/images/exito.gif",
+    "live": "es/play/exito.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "89.8",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Peque Radio",
+    "freq": "FM",
+    "mhz": "90.1",
+    "img": "es/images/peque.gif",
+    "live": "es/play/vc_peque.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Informa Radio",
+    "freq": "FM",
+    "mhz": "90.3",
+    "img": "es/images/informa.gif",
+    "live": "es/play/informa.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "90.5",
+    "img": "es/images/es.svg",
+    "live": "es/play/es.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Remember The Music FM",
+    "freq": "FM",
+    "mhz": "90.7",
+    "img": "es/images/rememberthemusic.gif",
+    "live": "es/play/vc_rememberthemusic.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Loca Urban",
+    "freq": "FM",
+    "mhz": "91.1",
+    "img": "es/images/loca-urban.gif",
+    "live": "es/play/loca-urban.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Esport",
+    "freq": "FM",
+    "mhz": "91.4",
+    "img": "es/images/esport.gif",
+    "live": "es/play/vc_esport.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Planeta Network Radio",
+    "freq": "FM",
+    "mhz": "91.8",
+    "img": "es/images/planetanetwork.gif",
+    "live": "es/play/vc_planetanetwork.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Valencia",
+    "freq": "FM",
+    "mhz": "92.0",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "SonRítmos FM",
+    "freq": "FM",
+    "mhz": "92.3",
+    "img": "es/images/sonritmos.gif",
+    "live": "http://fb.com/profile.php?id=100078630871247",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "La Calle",
+    "freq": "FM",
+    "mhz": "92.9",
+    "img": "es/images/lacalle.gif",
+    "live": "es/play/vc_lacalle.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "93.1",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "COPE Valencia",
+    "freq": "FM",
+    "mhz": "93.4",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Sound FM",
+    "freq": "FM",
+    "mhz": "93.6",
+    "img": "es/images/soundfm.gif",
+    "live": "es/play/vc_soundfm.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Flavor FM",
+    "freq": "FM",
+    "mhz": "94.0",
+    "img": "es/images/flavor.gif",
+    "live": "http://flavorfm.com/",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "94.2",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Capital Radio",
+    "freq": "FM",
+    "mhz": "94.5",
+    "img": "es/images/capital.gif",
+    "live": "es/play/capital_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Dynamis Radio",
+    "freq": "FM",
+    "mhz": "94.9",
+    "img": "es/images/dynamis.gif",
+    "live": "es/play/dynamis.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "95.1",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Radio 7",
+    "freq": "FM",
+    "mhz": "95.4",
+    "img": "es/images/radio7-valencia.gif",
+    "live": "es/play/vc_radio7.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Radio Valencia",
+    "freq": "FM",
+    "mhz": "95.7",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_valencia-mas.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "96.1",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Éxito Radio",
+    "freq": "FM",
+    "mhz": "96.4",
+    "img": "es/images/exito.gif",
+    "live": "es/play/exito.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Remember The Music FM",
+    "freq": "FM",
+    "mhz": "96.6",
+    "img": "es/images/rememberthemusic.gif",
+    "live": "es/play/vc_rememberthemusic.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "96.9",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Valencia Viva",
+    "freq": "FM",
+    "mhz": "97.2",
+    "img": "es/images/valencia-viva.gif",
+    "live": "https://valenciaviva.es/",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "La Consentida",
+    "freq": "FM",
+    "mhz": "97.5",
+    "img": "es/images/laconsentida.gif",
+    "live": "http://fb.com/La-Consentida-975-Valencia-104477028026024",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Social FM",
+    "freq": "FM",
+    "mhz": "97.9",
+    "img": "es/images/social.gif",
+    "live": "es/play/vc_social.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "98.4",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "98.7",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "99.0",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Decisión Radio",
+    "freq": "FM",
+    "mhz": "99.5",
+    "img": "es/images/decision.gif",
+    "live": "es/play/decision.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Plaza Ràdio",
+    "freq": "FM",
+    "mhz": "99.9",
+    "img": "es/images/plaza.gif",
+    "live": "es/play/vc_plaza.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Valencia",
+    "freq": "FM",
+    "mhz": "100.4",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Código FM",
+    "freq": "FM",
+    "mhz": "100.7",
+    "img": "es/images/codigo.gif",
+    "live": "es/play/vc_codigo.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Xtra Hits",
+    "freq": "FM",
+    "mhz": "100.9",
+    "img": "es/images/xtra.gif",
+    "live": "es/play/vc_xtra_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "101.2",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Plaza Ràdio",
+    "freq": "FM",
+    "mhz": "101.5",
+    "img": "es/images/plaza.gif",
+    "live": "es/play/vc_plaza.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Hit FM",
+    "freq": "FM",
+    "mhz": "101.7",
+    "img": "es/images/hitfm.gif",
+    "live": "es/play/hitfm.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "La Z FM",
+    "freq": "FM",
+    "mhz": "101.9",
+    "img": "es/images/laz-valencia.gif",
+    "live": "http://fb.com/laZfmteprende",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "À Punt Ràdio",
+    "freq": "FM",
+    "mhz": "102.2",
+    "img": "es/images/cvmc-apunt.gif",
+    "live": "es/play/cvmc-apunt.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Vida FM",
+    "freq": "FM",
+    "mhz": "102.7",
+    "img": "es/images/vida-madrid.gif",
+    "live": "es/play/vida.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "La Patrona FM",
+    "freq": "FM",
+    "mhz": "102.9",
+    "img": "es/images/lapatrona.gif",
+    "live": "es/play/vc_lapatrona.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "103.2",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Rumbera FM",
+    "freq": "FM",
+    "mhz": "103.4",
+    "img": "es/images/rumbera-valencia.gif",
+    "live": "es/play/vc_rumbera.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "La Indie",
+    "freq": "FM",
+    "mhz": "103.6",
+    "img": "es/images/laindie.gif",
+    "live": "es/play/vc_laindie.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "La Maxi Radio",
+    "freq": "FM",
+    "mhz": "103.9",
+    "img": "es/images/lamaxi.gif",
+    "live": "http://www.lamaxiradio.es/",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Who! Radio",
+    "freq": "FM",
+    "mhz": "104.1",
+    "img": "es/images/who.gif",
+    "live": "es/play/who_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Ràdio Klara",
+    "freq": "FM",
+    "mhz": "104.4",
+    "img": "es/images/klara.gif",
+    "live": "es/play/vc_klara.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Vaughan Radio",
+    "freq": "FM",
+    "mhz": "104.7",
+    "img": "es/images/vaughan.gif",
+    "live": "es/play/vaughan.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Ràdio Malva",
+    "freq": "FM",
+    "mhz": "104.9",
+    "img": "es/images/malva.gif",
+    "live": "es/play/vc_malva.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Activa FM",
+    "freq": "FM",
+    "mhz": "105.0",
+    "img": "es/images/activa.gif",
+    "live": "es/play/vc_activa_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Estrella FM",
+    "freq": "FM",
+    "mhz": "105.3",
+    "img": "es/images/estrella-valencia.gif",
+    "live": "http://fb.com/Estrella-FM-1260958000585792",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Ràdio Manises",
+    "freq": "FM",
+    "mhz": "105.7",
+    "img": "es/images/manises.gif",
+    "live": "es/play/vc_manises.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "La Maxi Radio",
+    "freq": "FM",
+    "mhz": "105.9",
+    "img": "es/images/lamaxi.gif",
+    "live": "http://www.lamaxiradio.es/",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Radio TeleTaxi",
+    "freq": "FM",
+    "mhz": "106.1",
+    "img": "es/images/rtt.gif",
+    "live": "es/play/rtt_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Muy Buena",
+    "freq": "FM",
+    "mhz": "106.3",
+    "img": "es/images/muybuena.gif",
+    "live": "es/play/vc_muybuena_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "106.6",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "106.9",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Radio Intereconomía",
+    "freq": "FM",
+    "mhz": "107.1",
+    "img": "es/images/intereconomia.svg",
+    "live": "es/play/intereconomia_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "MDT Radio",
+    "freq": "FM",
+    "mhz": "107.4",
+    "img": "es/images/mdt.gif",
+    "live": "es/play/vc_mdt.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Play Radio",
+    "freq": "FM",
+    "mhz": "107.7",
+    "img": "es/images/play-valencia.gif",
+    "live": "es/play/vc_play.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "Latinos FM",
+    "freq": "FM",
+    "mhz": "107.9",
+    "img": "es/images/latinos-valencia.gif",
+    "live": "es/play/vc_latinos.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "558",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "774",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Valencia",
+    "freq": "OM",
+    "mhz": "1179",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  },
+  {
+    "name": "COPE Valencia",
+    "freq": "OM",
+    "mhz": "1296",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_valencia.htm",
+    "city": "Valencia",
+    "country": "es"
+  }
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Canal Sur Radio",
+    "freq": "FM",
+    "mhz": "87.6",
+    "img": "es/images/rtva-canalsur.svg",
+    "live": "es/play/rtva-canalsur_malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Ritmo FM",
+    "freq": "FM",
+    "mhz": "87.8",
+    "img": "es/images/ritmo-malaga.gif",
+    "live": "es/play/an_ritmo.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "88.0",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Canal Metropol",
+    "freq": "FM",
+    "mhz": "88.3",
+    "img": "es/images/metropol.gif",
+    "live": "es/play/an_metropol.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "88.5",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "88.7",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "SportDirect Radio",
+    "freq": "FM",
+    "mhz": "89.1",
+    "img": "es/images/sport-direct.gif",
+    "live": "es/play/an_sportdirect.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "89.4",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Informa Radio",
+    "freq": "FM",
+    "mhz": "89.6",
+    "img": "es/images/informa.gif",
+    "live": "es/play/informa.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "COPE Málaga",
+    "freq": "FM",
+    "mhz": "89.8",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "90.1",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "JammFM Radio",
+    "freq": "FM",
+    "mhz": "90.5",
+    "img": "es/images/jamm.gif",
+    "live": "es/play/an_jamm.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "90.8",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "91.3",
+    "img": "es/images/es.svg",
+    "live": "es/play/es.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Andalucía Información",
+    "freq": "FM",
+    "mhz": "91.6",
+    "img": "es/images/rtva-andaluciainformacion.svg",
+    "live": "es/play/rtva-andaluciainformacion.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Fiebre Latina FM",
+    "freq": "FM",
+    "mhz": "92.2",
+    "img": "es/images/fiebrelatina.gif",
+    "live": "es/play/an_fiebrelatina.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "92.5",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "93.1",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Global Radio",
+    "freq": "FM",
+    "mhz": "93.6",
+    "img": "es/images/global936.gif",
+    "live": "es/play/an_global936.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radiolé",
+    "freq": "FM",
+    "mhz": "93.8",
+    "img": "es/images/radiole.svg",
+    "live": "es/play/radiole.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Gozadera FM",
+    "freq": "FM",
+    "mhz": "94.3",
+    "img": "es/images/gozadera.gif",
+    "live": "es/play/an_gozadera.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "La Mega Radio",
+    "freq": "FM",
+    "mhz": "94.9",
+    "img": "es/images/lamega-malaga.gif",
+    "live": "es/play/an_lamega.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio 90FM",
+    "freq": "FM",
+    "mhz": "95.2",
+    "img": "es/images/90fm.gif",
+    "live": "es/play/an_90fm.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Cristiana",
+    "freq": "FM",
+    "mhz": "96.0",
+    "img": "es/images/cristiana-malaga.gif",
+    "live": "es/play/an_cristiana.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Who! Radio",
+    "freq": "FM",
+    "mhz": "96.3",
+    "img": "es/images/who.gif",
+    "live": "es/play/who.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Getsemaní",
+    "freq": "FM",
+    "mhz": "96.6",
+    "img": "es/images/getsemani.gif",
+    "live": "http://twitter.com/iglesiajesustea",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "96.8",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Málaga",
+    "freq": "FM",
+    "mhz": "97.1",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Onda Azul",
+    "freq": "FM",
+    "mhz": "97.4",
+    "img": "es/images/ondaazul.gif",
+    "live": "es/play/an_ondaazul.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Radio Network",
+    "freq": "FM",
+    "mhz": "97.6",
+    "img": "es/images/radioradio.gif",
+    "live": "es/play/an_radioradio.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Xtra Hits",
+    "freq": "FM",
+    "mhz": "97.9",
+    "img": "es/images/xtra.gif",
+    "live": "es/play/an_xtra_malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "98.1",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Radio Network",
+    "freq": "FM",
+    "mhz": "98.3",
+    "img": "es/images/radioradio.gif",
+    "live": "es/play/an_radioradio.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Glamour FM",
+    "freq": "FM",
+    "mhz": "98.5",
+    "img": "es/images/glamour.gif",
+    "live": "es/play/an_glamour.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Central FM",
+    "freq": "FM",
+    "mhz": "98.7",
+    "img": "es/images/centralfm.gif",
+    "live": "es/play/an_centralfm.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Adventista",
+    "freq": "FM",
+    "mhz": "98.8",
+    "img": "us/images/adventist.gif",
+    "live": "https://marbella.adventista.es/",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "99.2",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Chanquete FM",
+    "freq": "FM",
+    "mhz": "99.5",
+    "img": "es/images/chanquete.gif",
+    "live": "es/play/an_chanquete-malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "99.8",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Amanecer",
+    "freq": "FM",
+    "mhz": "100.2",
+    "img": "es/images/amanecer-malaga.gif",
+    "live": "es/play/an_amanecer-malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Chilli FM",
+    "freq": "FM",
+    "mhz": "100.9",
+    "img": "es/images/chilli.gif",
+    "live": "es/play/an_chilli.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Dance",
+    "freq": "FM",
+    "mhz": "101.1",
+    "img": "es/images/los40-dance.svg",
+    "live": "es/play/los40-dance.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Spectrum FM",
+    "freq": "FM",
+    "mhz": "101.3",
+    "img": "es/images/spectrum.gif",
+    "live": "es/play/spectrum.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "101.6",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Nostalgia",
+    "freq": "FM",
+    "mhz": "102.2",
+    "img": "es/images/cadena-nostalgia.gif",
+    "live": "es/play/cadena-nostalgia.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Málaga",
+    "freq": "FM",
+    "mhz": "102.4",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_malaga-mas.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "102.8",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "BeachGrooves Radio",
+    "freq": "FM",
+    "mhz": "103.1",
+    "img": "es/images/beachgrooves.gif",
+    "live": "es/play/an_beachgrooves.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Tocata FM Radio",
+    "freq": "FM",
+    "mhz": "103.5",
+    "img": "es/images/tocata.gif",
+    "live": "es/play/an_tocata.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Decisión Radio",
+    "freq": "FM",
+    "mhz": "103.7",
+    "img": "es/images/decision.gif",
+    "live": "es/play/decision.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "104.0",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Canal Sur Radio",
+    "freq": "FM",
+    "mhz": "104.6",
+    "img": "es/images/rtva-canalsur.svg",
+    "live": "es/play/rtva-canalsur_malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Oro",
+    "freq": "FM",
+    "mhz": "105.3",
+    "img": "es/images/oro.gif",
+    "live": "es/play/an_oro-malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "105.5",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Canal Fiesta",
+    "freq": "FM",
+    "mhz": "105.8",
+    "img": "es/images/rtva-canalfiesta.svg",
+    "live": "es/play/rtva-canalfiesta.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Metropolitana",
+    "freq": "FM",
+    "mhz": "106.4",
+    "img": "es/images/metropolitana-malaga.gif",
+    "live": "es/play/an_metropolitana.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "106.6",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Elixir FM",
+    "freq": "FM",
+    "mhz": "106.9",
+    "img": "es/images/elixir.gif",
+    "live": "es/play/an_elixir.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Onda Color",
+    "freq": "FM",
+    "mhz": "107.3",
+    "img": "es/images/ondacolor.gif",
+    "live": "es/play/an_ondacolor.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Escuela Abierta FM",
+    "freq": "FM",
+    "mhz": "107.5",
+    "img": "es/images/escuelaabierta.gif",
+    "live": "es/play/escuelaabierta.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Mijas",
+    "freq": "FM",
+    "mhz": "107.7",
+    "img": "es/images/mijas.gif",
+    "live": "es/play/an_mijas.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "Radio Malaka",
+    "freq": "FM",
+    "mhz": "108.0",
+    "img": "es/images/malaka.gif",
+    "live": "es/play/an_malaka.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "729",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Málaga",
+    "freq": "OM",
+    "mhz": "882",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_malaga.htm",
+    "city": "Málaga",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "1152",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Málaga",
+    "country": "es"
+  }
+]

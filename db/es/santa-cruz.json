@@ -1,0 +1,623 @@
+[
+  {
+    "name": "Rítmica FM",
+    "freq": "FM",
+    "mhz": "87.5",
+    "img": "es/images/ritmica.gif",
+    "live": "es/play/cn_ritmica.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "87.8",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "7.7 Radio",
+    "freq": "FM",
+    "mhz": "88.3",
+    "img": "es/images/7punto7.gif",
+    "live": "es/play/cn_7punto7.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "88.8",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "89.1",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "89.4",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Schlagerradio Europa",
+    "freq": "FM",
+    "mhz": "89.6",
+    "img": "es/images/europa-kanaren.gif",
+    "live": "es/play/cn_europa-schlager_tf.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio 6",
+    "freq": "FM",
+    "mhz": "89.8",
+    "img": "es/images/radio6.gif",
+    "live": "es/play/cn_radio6.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "90.0",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Puro Sabor FM",
+    "freq": "FM",
+    "mhz": "90.2",
+    "img": "es/images/purosabor.gif",
+    "live": "es/play/cn_purosabor-santacruz.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio ECCA",
+    "freq": "FM",
+    "mhz": "90.4",
+    "img": "es/images/ecca.gif",
+    "live": "es/play/cn_ecca.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Rumberos FM",
+    "freq": "FM",
+    "mhz": "90.6",
+    "img": "es/images/rumberos.gif",
+    "live": "es/play/cn_rumberos.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Infopuertos Radio",
+    "freq": "FM",
+    "mhz": "90.8",
+    "img": "es/images/infopuertos.gif",
+    "live": "https://infopuertos.com/",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Tenerife",
+    "freq": "FM",
+    "mhz": "91.1",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_tenerife-mas.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "91.5",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_tenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Marcha FM",
+    "freq": "FM",
+    "mhz": "91.7",
+    "img": "es/images/marcha.gif",
+    "live": "es/play/cn_marcha.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Informa Radio",
+    "freq": "FM",
+    "mhz": "91.9",
+    "img": "es/images/informa.gif",
+    "live": "es/play/informa.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio San Borondón",
+    "freq": "FM",
+    "mhz": "92.1",
+    "img": "es/images/sanborondon.gif",
+    "live": "es/play/cn_sanborondon.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "92.3",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Ondas Colectivas Canarias",
+    "freq": "FM",
+    "mhz": "93.0",
+    "img": "es/images/ondascolectivas.gif",
+    "live": "http://www.radiomajuelos.net/",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "93.2",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Inter Radio Tenerife",
+    "freq": "FM",
+    "mhz": "93.7",
+    "img": "es/images/inter-tenerife.gif",
+    "live": "es/play/cn_inter.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "94.0",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_canarias.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio 4G",
+    "freq": "FM",
+    "mhz": "94.3",
+    "img": "es/images/4g.gif",
+    "live": "es/play/4g.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Libertad FM",
+    "freq": "FM",
+    "mhz": "94.6",
+    "img": "es/images/libertad.gif",
+    "live": "es/play/libertad.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "94.8",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Éxito Radio",
+    "freq": "FM",
+    "mhz": "95.0",
+    "img": "es/images/exito.gif",
+    "live": "es/play/exito.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio Unión Tenerife",
+    "freq": "FM",
+    "mhz": "95.3",
+    "img": "es/images/union.gif",
+    "live": "es/play/cn_union.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Boogie Bunker Radio",
+    "freq": "FM",
+    "mhz": "95.6",
+    "img": "es/images/bbr.gif",
+    "live": "es/play/cn_bbr.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "95.8",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Inter Radio Tenerife",
+    "freq": "FM",
+    "mhz": "96.0",
+    "img": "es/images/inter-tenerife.gif",
+    "live": "es/play/cn_inter.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "96.2",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Mágica FM",
+    "freq": "FM",
+    "mhz": "96.6",
+    "img": "es/images/magica.gif",
+    "live": "es/play/magica.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "COPE Tenerife",
+    "freq": "FM",
+    "mhz": "97.1",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_tenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "97.8",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Puro Sabor FM",
+    "freq": "FM",
+    "mhz": "97.9",
+    "img": "es/images/purosabor.gif",
+    "live": "es/play/cn_purosabor-santacruz.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "98.1",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Laguna FM",
+    "freq": "FM",
+    "mhz": "98.3",
+    "img": "es/images/laguna.gif",
+    "live": "es/play/cn_laguna.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "98.8",
+    "img": "es/images/es.svg",
+    "live": "es/play/es_tenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Onda Tenerife",
+    "freq": "FM",
+    "mhz": "99.0",
+    "img": "es/images/ondatenerife.gif",
+    "live": "es/play/cn_ondatenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Rumberos FM",
+    "freq": "FM",
+    "mhz": "99.2",
+    "img": "es/images/rumberos.gif",
+    "live": "es/play/cn_rumberos.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "100.1",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Rítmica FM",
+    "freq": "FM",
+    "mhz": "100.6",
+    "img": "es/images/ritmica.gif",
+    "live": "es/play/cn_ritmica.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Club Tenerife",
+    "freq": "FM",
+    "mhz": "101.1",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_tenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "101.6",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio Majuelos",
+    "freq": "FM",
+    "mhz": "101.8",
+    "img": "es/images/ondascolectivas.gif",
+    "live": "es/play/cn_majuelos.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "102.1",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio Europa",
+    "freq": "FM",
+    "mhz": "102.3",
+    "img": "es/images/europa-kanaren.gif",
+    "live": "es/play/cn_europa_tf.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Puro Sabor FM",
+    "freq": "FM",
+    "mhz": "102.6",
+    "img": "es/images/purosabor.gif",
+    "live": "es/play/cn_purosabor-santacruz.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "102.9",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss_canarias.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Swing Latinos FM",
+    "freq": "FM",
+    "mhz": "103.3",
+    "img": "es/images/swinglatinos.gif",
+    "live": "es/play/cn_swinglatinos.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Xanadú Radio",
+    "freq": "FM",
+    "mhz": "103.6",
+    "img": "es/images/xanadu.gif",
+    "live": "es/play/cn_xanadu.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio Solidaria",
+    "freq": "FM",
+    "mhz": "103.8",
+    "img": "es/images/solidaria.gif",
+    "live": "es/play/solidaria-tenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RTVC Canarias Radio",
+    "freq": "FM",
+    "mhz": "104.2",
+    "img": "es/images/rtvc.gif",
+    "live": "es/play/rtvc-canarias.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "La Mueve FM",
+    "freq": "FM",
+    "mhz": "104.5",
+    "img": "es/images/lamueve.gif",
+    "live": "es/play/cn_lamueve_tenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "La Fresca FM",
+    "freq": "FM",
+    "mhz": "104.7",
+    "img": "es/images/lafresca.gif",
+    "live": "es/play/lafresca.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Tenerife",
+    "freq": "FM",
+    "mhz": "105.1",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_tenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio Unión Tenerife",
+    "freq": "FM",
+    "mhz": "105.3",
+    "img": "es/images/union.gif",
+    "live": "es/play/cn_union.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Coast FM",
+    "freq": "FM",
+    "mhz": "105.5",
+    "img": "es/images/coast.gif",
+    "live": "es/play/cn_coast_n-tenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "105.7",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Infopuertos Radio",
+    "freq": "FM",
+    "mhz": "106.1",
+    "img": "es/images/infopuertos.gif",
+    "live": "https://infopuertos.com/",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Hit FM",
+    "freq": "FM",
+    "mhz": "106.3",
+    "img": "es/images/hitfm.gif",
+    "live": "es/play/hitfm.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "106.8",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_canarias.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Flow Radio",
+    "freq": "FM",
+    "mhz": "107.3",
+    "img": "es/images/flow.gif",
+    "live": "http://flowradio.es/",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "Radio Geneto",
+    "freq": "FM",
+    "mhz": "107.5",
+    "img": "es/images/geneto.gif",
+    "live": "es/play/cn_geneto.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "621",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "720",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "COPE Tenerife",
+    "freq": "OM",
+    "mhz": "882",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_tenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Club Tenerife",
+    "freq": "OM",
+    "mhz": "1179",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_tenerife.htm",
+    "city": "Santa Cruz",
+    "country": "es"
+  }
+]

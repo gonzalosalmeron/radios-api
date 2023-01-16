@@ -1,0 +1,452 @@
+[
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "87.6",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Amara Berri Irratia",
+    "freq": "FM",
+    "mhz": "88.0",
+    "img": "es/images/amara-berri.gif",
+    "live": "http://amaraberri.org/",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "COPE San Sebastián",
+    "freq": "FM",
+    "mhz": "88.5",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_sansebastian.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Éxito Radio",
+    "freq": "FM",
+    "mhz": "88.8",
+    "img": "es/images/exito.gif",
+    "live": "es/play/exito.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Onda de Fé",
+    "freq": "FM",
+    "mhz": "89.5",
+    "img": "es/images/ondadefe.gif",
+    "live": "es/play/pv_ondadefe.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "90.0",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Radio Euskadi",
+    "freq": "FM",
+    "mhz": "90.5",
+    "img": "es/images/eitb-radio.gif",
+    "live": "es/play/eitb-radio.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Musika",
+    "freq": "FM",
+    "mhz": "90.9",
+    "img": "es/images/eitb-musika.gif",
+    "live": "es/play/eitb-musika.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "91.5",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "92.1",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Habla Radio",
+    "freq": "FM",
+    "mhz": "92.9",
+    "img": "es/images/habla.gif",
+    "live": "es/play/pv_habla.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "93.3",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Naiz Irratia",
+    "freq": "FM",
+    "mhz": "93.8",
+    "img": "es/images/naiz.gif",
+    "live": "es/play/pv_naiz.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Euskadi Irratia",
+    "freq": "FM",
+    "mhz": "94.4",
+    "img": "es/images/eitb-irratia.gif",
+    "live": "es/play/eitb-irratia.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Radio Líder",
+    "freq": "FM",
+    "mhz": "94.8",
+    "img": "es/images/lider.gif",
+    "live": "es/play/lider_paisvasco.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Euskadi Irratia",
+    "freq": "FM",
+    "mhz": "95.2",
+    "img": "es/images/eitb-irratia.gif",
+    "live": "es/play/eitb-irratia.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio San Sebastián",
+    "freq": "FM",
+    "mhz": "95.6",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_sansebastian.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Radio Super Amara",
+    "freq": "FM",
+    "mhz": "95.9",
+    "img": "es/images/super-amara.gif",
+    "live": "http://www.superamara.com/",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Fórmula Hit",
+    "freq": "FM",
+    "mhz": "96.2",
+    "img": "es/images/formulahit.gif",
+    "live": "es/play/formulahit_paisvasco.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Radio Euskadi",
+    "freq": "FM",
+    "mhz": "96.5",
+    "img": "es/images/eitb-radio.gif",
+    "live": "es/play/eitb-radio.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "97.2",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Vida FM",
+    "freq": "FM",
+    "mhz": "97.5",
+    "img": "es/images/vida-madrid.gif",
+    "live": "es/play/vida.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más San Sebastián",
+    "freq": "FM",
+    "mhz": "98.0",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_sansebastian.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Radio Donosti",
+    "freq": "FM",
+    "mhz": "98.5",
+    "img": "es/images/donosti.gif",
+    "live": "es/play/pv_donosti.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "98.9",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "99.2",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_sansebastian.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "99.5",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "99.8",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Radio Hi !!",
+    "freq": "FM",
+    "mhz": "101.2",
+    "img": "es/images/hi.gif",
+    "live": "es/play/pv_hi.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Radio Tropical",
+    "freq": "FM",
+    "mhz": "101.5",
+    "img": "es/images/tropical-bilbao.gif",
+    "live": "es/play/pv_tropical.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Radio San Sebastián",
+    "freq": "FM",
+    "mhz": "102.0",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_sansebastian.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Radio Solidaria",
+    "freq": "FM",
+    "mhz": "102.2",
+    "img": "es/images/solidaria.gif",
+    "live": "es/play/solidaria.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "102.5",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_sansebastian.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Gaztea",
+    "freq": "FM",
+    "mhz": "103.1",
+    "img": "es/images/eitb-gaztea.gif",
+    "live": "es/play/eitb-gaztea.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Gaztea",
+    "freq": "FM",
+    "mhz": "103.5",
+    "img": "es/images/eitb-gaztea.gif",
+    "live": "es/play/eitb-gaztea.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Musika",
+    "freq": "FM",
+    "mhz": "104.2",
+    "img": "es/images/eitb-musika.gif",
+    "live": "es/play/eitb-musika.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "104.7",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "105.0",
+    "img": "es/images/es.svg",
+    "live": "es/play/es.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "105.2",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Antxeta Irratia",
+    "freq": "FM",
+    "mhz": "105.8",
+    "img": "es/images/antxeta.gif",
+    "live": "es/play/pv_antxeta.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "106.2",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Hit FM",
+    "freq": "FM",
+    "mhz": "106.5",
+    "img": "es/images/hitfm.gif",
+    "live": "es/play/hitfm.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Onda Vasca",
+    "freq": "FM",
+    "mhz": "106.9",
+    "img": "es/images/ondavasca.gif",
+    "live": "es/play/pv_ondavasca-gipuzkoa.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Ttan Ttakun Irratia",
+    "freq": "FM",
+    "mhz": "107.2",
+    "img": "es/images/ttanttakun.gif",
+    "live": "es/play/pv_ttanttakun.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Donostia Kultura Irratia",
+    "freq": "FM",
+    "mhz": "107.4",
+    "img": "es/images/donostia-kultura.gif",
+    "live": "es/play/pv_donostia-kultura.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Otxoki Irratia",
+    "freq": "FM",
+    "mhz": "107.7",
+    "img": "es/images/otxoki.gif",
+    "live": "http://otxoki.blogspot.com/",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "Radio 4G",
+    "freq": "FM",
+    "mhz": "108.0",
+    "img": "es/images/4g.gif",
+    "live": "es/play/4g.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "558",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "774",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio San Sebastián",
+    "freq": "OM",
+    "mhz": "1044",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_sansebastian.htm",
+    "city": "San Sebastián",
+    "country": "es"
+  }
+]

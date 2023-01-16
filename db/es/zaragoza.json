@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "87.6",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_zaragoza.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Zaragoza",
+    "freq": "FM",
+    "mhz": "88.5",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_zaragoza.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "88.8",
+    "img": "es/images/es.svg",
+    "live": "es/play/es.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Loca Urban",
+    "freq": "FM",
+    "mhz": "89.7",
+    "img": "es/images/loca-urban.gif",
+    "live": "es/play/loca-urban.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "89.7",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "90.5",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "90.9",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Love 90s Radio",
+    "freq": "FM",
+    "mhz": "91.1",
+    "img": "es/images/love90s.gif",
+    "live": "es/play/ar_love90s.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Hit FM",
+    "freq": "FM",
+    "mhz": "91.4",
+    "img": "es/images/hitfm.gif",
+    "live": "es/play/hitfm.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Gozadera FM",
+    "freq": "FM",
+    "mhz": "91.7",
+    "img": "es/images/gozadera.gif",
+    "live": "es/play/an_gozadera.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Dance",
+    "freq": "FM",
+    "mhz": "92.0",
+    "img": "es/images/los40-dance.svg",
+    "live": "es/play/los40-dance.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "92.5",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Rumba FM",
+    "freq": "FM",
+    "mhz": "93.1",
+    "img": "es/images/rumba-zaragoza.gif",
+    "live": "es/play/ar_rumba.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Zaragoza",
+    "freq": "FM",
+    "mhz": "93.5",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_zaragoza.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Radiolé",
+    "freq": "FM",
+    "mhz": "94.0",
+    "img": "es/images/radiole.svg",
+    "live": "es/play/radiole.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "94.5",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Aragón Radio",
+    "freq": "FM",
+    "mhz": "94.9",
+    "img": "es/images/cartv-aragon.gif",
+    "live": "es/play/cartv-aragon_zaragoza.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "95.3",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Vaughan Radio",
+    "freq": "FM",
+    "mhz": "96.0",
+    "img": "es/images/vaughan.gif",
+    "live": "es/play/vaughan.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "96.3",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Melodía FM",
+    "freq": "FM",
+    "mhz": "96.7",
+    "img": "es/images/melodia.svg",
+    "live": "es/play/melodia.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "97.1",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "COPE Zaragoza",
+    "freq": "FM",
+    "mhz": "97.5",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_zaragoza.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "97.9",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Latina FM",
+    "freq": "FM",
+    "mhz": "98.3",
+    "img": "es/images/latina-zaragoza.gif",
+    "live": "es/play/ar_latina.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Radio Zaragoza",
+    "freq": "FM",
+    "mhz": "98.6",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_zaragoza-mas.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Radio La Nueva",
+    "freq": "FM",
+    "mhz": "99.0",
+    "img": "es/images/lanueva99.gif",
+    "live": "http://fb.com/lanuevafmzgz",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "99.4",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_zaragoza.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "99.7",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "100.0",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "100.5",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Dynamis Radio",
+    "freq": "FM",
+    "mhz": "101.2",
+    "img": "es/images/dynamis.gif",
+    "live": "es/play/dynamis.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Radio Topo",
+    "freq": "FM",
+    "mhz": "101.8",
+    "img": "es/images/topo.gif",
+    "live": "es/play/ar_topo.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Radio La Granja",
+    "freq": "FM",
+    "mhz": "102.1",
+    "img": "es/images/lagranja.gif",
+    "live": "es/play/ar_lagranja.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Aragón Radio",
+    "freq": "FM",
+    "mhz": "102.4",
+    "img": "es/images/cartv-aragon.gif",
+    "live": "es/play/cartv-aragon_zaragoza.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Radio Mai",
+    "freq": "FM",
+    "mhz": "102.8",
+    "img": "es/images/mai.gif",
+    "live": "es/play/ar_mai.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "103.6",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Éxito Radio",
+    "freq": "FM",
+    "mhz": "104.1",
+    "img": "es/images/exito.gif",
+    "live": "es/play/exito.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "104.4",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Radio Intereconomía",
+    "freq": "FM",
+    "mhz": "104.6",
+    "img": "es/images/intereconomia.svg",
+    "live": "es/play/intereconomia.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Radio Solidaria",
+    "freq": "FM",
+    "mhz": "104.8",
+    "img": "es/images/solidaria.gif",
+    "live": "es/play/solidaria-zaragoza.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Radio EBRO",
+    "freq": "FM",
+    "mhz": "105.2",
+    "img": "es/images/ebro.gif",
+    "live": "es/play/ar_ebro.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Onda Zaragoza",
+    "freq": "FM",
+    "mhz": "105.5",
+    "img": "es/images/ondazaragoza.gif",
+    "live": "http://www.ondazaragoza.com/",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "105.8",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "106.2",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "La Mega Radio",
+    "freq": "FM",
+    "mhz": "106.5",
+    "img": "es/images/lamega-zaragoza.gif",
+    "live": "http://fb.com/LaMegaZaragoza",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Vida FM",
+    "freq": "FM",
+    "mhz": "106.8",
+    "img": "es/images/vida-madrid.gif",
+    "live": "es/play/vida.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Decisión Radio",
+    "freq": "FM",
+    "mhz": "107.3",
+    "img": "es/images/decision.gif",
+    "live": "es/play/decision.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "Radio Vip FM",
+    "freq": "FM",
+    "mhz": "107.6",
+    "img": "es/images/vip.gif",
+    "live": "es/play/ar_vip.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "639",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Zaragoza",
+    "freq": "OM",
+    "mhz": "873",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_zaragoza.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "936",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  },
+  {
+    "name": "COPE Zaragoza",
+    "freq": "OM",
+    "mhz": "1053",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_zaragoza.htm",
+    "city": "Zaragoza",
+    "country": "es"
+  }
+]

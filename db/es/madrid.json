@@ -1,0 +1,758 @@
+[
+  {
+    "name": "Onda Latina",
+    "freq": "FM",
+    "mhz": "87.6",
+    "img": "es/images/ondalatina.gif",
+    "live": "es/play/md_ondalatina.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Corazón Tropical",
+    "freq": "FM",
+    "mhz": "87.7",
+    "img": "es/images/corazon-tropical.gif",
+    "live": "es/play/md_corazon-tropical.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "La Nueva FM",
+    "freq": "FM",
+    "mhz": "87.9",
+    "img": "es/images/lanueva879.gif",
+    "live": "es/play/md_lanueva.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "88.2",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Ecuatoriana FM",
+    "freq": "FM",
+    "mhz": "88.4",
+    "img": "es/images/ecuatoriana.gif",
+    "live": "es/play/md_ecuatoriana.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "La Kalle",
+    "freq": "FM",
+    "mhz": "88.8",
+    "img": "es/images/lakalle.gif",
+    "live": "es/play/md_lakalle.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "89.0",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Pepe Radio",
+    "freq": "FM",
+    "mhz": "89.3",
+    "img": "es/images/pepe.gif",
+    "live": "es/play/md_pepe.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Loca Urban",
+    "freq": "FM",
+    "mhz": "89.5",
+    "img": "es/images/loca-urban.gif",
+    "live": "es/play/loca-urban.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Informa Radio",
+    "freq": "FM",
+    "mhz": "89.7",
+    "img": "es/images/informa.gif",
+    "live": "es/play/informa.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Hit FM",
+    "freq": "FM",
+    "mhz": "89.9",
+    "img": "es/images/hitfm.gif",
+    "live": "es/play/hitfm.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Super Latina",
+    "freq": "FM",
+    "mhz": "90.1",
+    "img": "es/images/superlatina.gif",
+    "live": "es/play/md_superlatina.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "90.3",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "XY Radio",
+    "freq": "FM",
+    "mhz": "90.5",
+    "img": "es/images/xy.gif",
+    "live": "http://www.xyradio.es/",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Imperia FM",
+    "freq": "FM",
+    "mhz": "90.8",
+    "img": "es/images/imperia.gif",
+    "live": "es/play/md_imperia.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "91.0",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Gozadera FM",
+    "freq": "FM",
+    "mhz": "91.2",
+    "img": "es/images/gozadera.gif",
+    "live": "es/play/an_gozadera.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Tentación",
+    "freq": "FM",
+    "mhz": "91.4",
+    "img": "es/images/tentacion.gif",
+    "live": "es/play/md_tentacion.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "91.7",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Activa Europa",
+    "freq": "FM",
+    "mhz": "91.9",
+    "img": "es/images/activa-europa.gif",
+    "live": "es/play/md_activa-europa.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radiolé",
+    "freq": "FM",
+    "mhz": "92.4",
+    "img": "es/images/radiole.svg",
+    "live": "es/play/radiole.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio China FM",
+    "freq": "FM",
+    "mhz": "92.9",
+    "img": "es/images/china-fm.gif",
+    "live": "es/play/md_china-fm.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "93.2",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "93.9",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Vida FM",
+    "freq": "FM",
+    "mhz": "94.2",
+    "img": "es/images/vida-madrid.gif",
+    "live": "es/play/vida.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio 4G",
+    "freq": "FM",
+    "mhz": "94.5",
+    "img": "es/images/4g.gif",
+    "live": "es/play/4g.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Melodía FM",
+    "freq": "FM",
+    "mhz": "94.6",
+    "img": "es/images/melodia.svg",
+    "live": "es/play/melodia.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Madrid",
+    "freq": "FM",
+    "mhz": "94.8",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_madrid-mas.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Intereconomía",
+    "freq": "FM",
+    "mhz": "95.1",
+    "img": "es/images/intereconomia.svg",
+    "live": "es/play/intereconomia.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "La Equis",
+    "freq": "FM",
+    "mhz": "95.4",
+    "img": "es/images/laequis.gif",
+    "live": "es/play/md_laequis.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "95.8",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "96.0",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Crack Radio",
+    "freq": "FM",
+    "mhz": "96.2",
+    "img": "es/images/crack.gif",
+    "live": "es/play/md_crack.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "96.5",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "La Suegra FM",
+    "freq": "FM",
+    "mhz": "96.7",
+    "img": "es/images/lasuegra.gif",
+    "live": "es/play/md_lasuegra.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Top Radio",
+    "freq": "FM",
+    "mhz": "97.2",
+    "img": "es/images/top.gif",
+    "live": "es/play/md_top.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "98.0",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "La Mega Estación",
+    "freq": "FM",
+    "mhz": "98.2",
+    "img": "es/images/lamegaestacion.gif",
+    "live": "es/play/md_lamegaestacion.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Dynamis Radio",
+    "freq": "FM",
+    "mhz": "98.6",
+    "img": "es/images/dynamis.gif",
+    "live": "es/play/dynamis.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "98.8",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "99.1",
+    "img": "es/images/es.svg",
+    "live": "es/play/es.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Furiosa FM",
+    "freq": "FM",
+    "mhz": "99.3",
+    "img": "es/images/furiosa.gif",
+    "live": "es/play/md_furiosa.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "99.5",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Éxito Radio",
+    "freq": "FM",
+    "mhz": "100.0",
+    "img": "es/images/exito.gif",
+    "live": "es/play/exito.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "La Viña Radio",
+    "freq": "FM",
+    "mhz": "100.2",
+    "img": "es/images/lavina.gif",
+    "live": "es/play/md_lavina.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Vaughan Radio",
+    "freq": "FM",
+    "mhz": "100.4",
+    "img": "es/images/vaughan.gif",
+    "live": "es/play/vaughan.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "MegaStar FM",
+    "freq": "FM",
+    "mhz": "100.7",
+    "img": "es/images/megastar.svg",
+    "live": "es/play/megastar.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Onda Madrid 101.3",
+    "freq": "FM",
+    "mhz": "101.3",
+    "img": "es/images/rtvm-ondamadrid.gif",
+    "live": "es/play/rtvm-ondamadrid1013.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Solidaria",
+    "freq": "FM",
+    "mhz": "101.5",
+    "img": "es/images/solidaria.gif",
+    "live": "es/play/solidaria.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "101.7",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Kandela Estéreo",
+    "freq": "FM",
+    "mhz": "101.9",
+    "img": "es/images/kandela.gif",
+    "live": "es/play/md_kandela.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Decisión Radio",
+    "freq": "FM",
+    "mhz": "102.1",
+    "img": "es/images/decision.gif",
+    "live": "es/play/decision.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Factory FM",
+    "freq": "FM",
+    "mhz": "102.4",
+    "img": "es/images/factory.gif",
+    "live": "es/play/md_factory.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "102.7",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Unika FM",
+    "freq": "FM",
+    "mhz": "103.0",
+    "img": "es/images/unika.gif",
+    "live": "es/play/md_unika.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Capital Radio",
+    "freq": "FM",
+    "mhz": "103.2",
+    "img": "es/images/capital.gif",
+    "live": "es/play/capital.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "103.5",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Ecuashyri",
+    "freq": "FM",
+    "mhz": "103.7",
+    "img": "es/images/ecuashyri.gif",
+    "live": "es/play/md_ecuashyri.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Urban",
+    "freq": "FM",
+    "mhz": "103.9",
+    "img": "es/images/los40-urban.svg",
+    "live": "es/play/los40-urban.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Vida FM",
+    "freq": "FM",
+    "mhz": "104.1",
+    "img": "es/images/vida-madrid.gif",
+    "live": "es/play/vida.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Madrid",
+    "freq": "FM",
+    "mhz": "104.3",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_madrid-mas.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Informa Radio",
+    "freq": "FM",
+    "mhz": "104.5",
+    "img": "es/images/informa.gif",
+    "live": "es/play/informa.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "La Kariñosa Radio",
+    "freq": "FM",
+    "mhz": "104.7",
+    "img": "es/images/lakarinosa.gif",
+    "live": "es/play/md_lakarinosa.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "104.9",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio 4G",
+    "freq": "FM",
+    "mhz": "105.1",
+    "img": "es/images/4g.gif",
+    "live": "es/play/4g.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Madrid",
+    "freq": "FM",
+    "mhz": "105.4",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_madrid.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "105.7",
+    "img": "es/images/es.svg",
+    "live": "es/play/es.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Onda Madrid 106",
+    "freq": "FM",
+    "mhz": "106.0",
+    "img": "es/images/rtvm-ondamadrid.gif",
+    "live": "es/play/rtvm-ondamadrid106.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "COPE Madrid",
+    "freq": "FM",
+    "mhz": "106.3",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_madrid.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Éxito Radio",
+    "freq": "FM",
+    "mhz": "106.6",
+    "img": "es/images/exito.gif",
+    "live": "es/play/exito.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Libertad FM",
+    "freq": "FM",
+    "mhz": "107.0",
+    "img": "es/images/libertad.gif",
+    "live": "es/play/libertad.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Suena FM",
+    "freq": "FM",
+    "mhz": "107.2",
+    "img": "es/images/suena.gif",
+    "live": "es/play/md_suena.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Complutense",
+    "freq": "FM",
+    "mhz": "107.5",
+    "img": "es/images/complutense.gif",
+    "live": "http://www.ucm.es/info/radiocom",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "IBN Radio",
+    "freq": "FM",
+    "mhz": "107.6",
+    "img": "es/images/ibn.gif",
+    "live": "es/play/md_ibn.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Centro TV",
+    "freq": "FM",
+    "mhz": "107.8",
+    "img": "es/images/centro.gif",
+    "live": "es/play/md_centro.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Onda Verde",
+    "freq": "FM",
+    "mhz": "107.9",
+    "img": "es/images/ondaverde.gif",
+    "live": "http://ondaverderadiocomunitaria.blogspot.com/",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Rec Radio",
+    "freq": "FM",
+    "mhz": "108.0",
+    "img": "es/images/rec.gif",
+    "live": "es/play/md_rec.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "585",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "657",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Madrid",
+    "freq": "OM",
+    "mhz": "810",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_madrid.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Radio Inter",
+    "freq": "OM",
+    "mhz": "918",
+    "img": "es/images/inter.gif",
+    "live": "es/play/inter.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "OM",
+    "mhz": "954",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "COPE Madrid",
+    "freq": "OM",
+    "mhz": "999",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_madrid.htm",
+    "city": "Madrid",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "1359",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Madrid",
+    "country": "es"
+  }
+]

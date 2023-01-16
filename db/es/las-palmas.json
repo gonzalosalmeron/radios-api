@@ -1,0 +1,425 @@
+[
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "98.0",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "88.2",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_grancanaria.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "88.6",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Tinamar",
+    "freq": "FM",
+    "mhz": "89.0",
+    "img": "es/images/tinamar.gif",
+    "live": "es/play/cn_tinamar.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Guiniguada",
+    "freq": "FM",
+    "mhz": "89.4",
+    "img": "es/images/guiniguada.gif",
+    "live": "es/play/cn_guiniguada.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "7.7 Radio",
+    "freq": "FM",
+    "mhz": "89.6",
+    "img": "es/images/7punto7.gif",
+    "live": "es/play/cn_7punto7.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "89.9",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio ECCA",
+    "freq": "FM",
+    "mhz": "90.4",
+    "img": "es/images/ecca.gif",
+    "live": "es/play/cn_ecca.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Tamarán FM",
+    "freq": "FM",
+    "mhz": "90.8",
+    "img": "es/images/tamaran.gif",
+    "live": "http://www.radiotamaran.es/",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "91.1",
+    "img": "es/images/es.svg",
+    "live": "es/play/es.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Faycán",
+    "freq": "FM",
+    "mhz": "91.4",
+    "img": "es/images/faycan.gif",
+    "live": "es/play/cn_faycan.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "91.8",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Las Medianías",
+    "freq": "FM",
+    "mhz": "92.0",
+    "img": "es/images/lasmedianias.gif",
+    "live": "es/play/cn_lasmedianias.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "La Mueve FM",
+    "freq": "FM",
+    "mhz": "92.5",
+    "img": "es/images/lamueve.gif",
+    "live": "es/play/cn_lamueve_grancanaria.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "92.8",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Solidaria",
+    "freq": "FM",
+    "mhz": "93.1",
+    "img": "es/images/solidaria.gif",
+    "live": "es/play/solidaria-laspalmas.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "El Espejo Canario",
+    "freq": "FM",
+    "mhz": "93.8",
+    "img": "es/images/elespejo.gif",
+    "live": "es/play/cn_elespejo.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Juventud",
+    "freq": "FM",
+    "mhz": "94.1",
+    "img": "es/images/juventud.gif",
+    "live": "es/play/cn_juventud.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "94.4",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Univerdance",
+    "freq": "FM",
+    "mhz": "94.7",
+    "img": "es/images/univerdance.gif",
+    "live": "es/play/cn_univerdance.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "95.1",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Inolvidable FM",
+    "freq": "FM",
+    "mhz": "95.8",
+    "img": "es/images/inolvidable.gif",
+    "live": "es/play/cn_inolvidable.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Faycán",
+    "freq": "FM",
+    "mhz": "96.7",
+    "img": "es/images/faycan.gif",
+    "live": "es/play/cn_faycan.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Bakanos FM",
+    "freq": "FM",
+    "mhz": "97.0",
+    "img": "es/images/bakanos.gif",
+    "live": "http://fb.com/Bakanos-FM-1754664388087819",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Las Palmas",
+    "freq": "FM",
+    "mhz": "97.3",
+    "img": "es/images/laspalmas.gif",
+    "live": "es/play/cn_laspalmas.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "9 Radio",
+    "freq": "FM",
+    "mhz": "97.7",
+    "img": "es/images/9radio.gif",
+    "live": "es/play/cn_9radio.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "98.5",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "COPE Gran Canaria",
+    "freq": "FM",
+    "mhz": "99.1",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_grancanaria.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Las Palmas",
+    "freq": "FM",
+    "mhz": "99.8",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_laspalmas-mas.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "RTVC Canarias Radio",
+    "freq": "FM",
+    "mhz": "100.8",
+    "img": "es/images/rtvc.gif",
+    "live": "es/play/rtvc-canarias.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Capital Radio",
+    "freq": "FM",
+    "mhz": "101.2",
+    "img": "es/images/capital.gif",
+    "live": "es/play/capital_grancanaria.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "101.4",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "102.4",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss_canarias.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Dance",
+    "freq": "FM",
+    "mhz": "102.7",
+    "img": "es/images/los40-dance.svg",
+    "live": "es/play/los40-dance.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Gran Canaria",
+    "freq": "FM",
+    "mhz": "103.0",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_grancanaria.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Europa",
+    "freq": "FM",
+    "mhz": "104.0",
+    "img": "es/images/europa-kanaren.gif",
+    "live": "es/play/cn_europa_gc.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Calimbre Radio",
+    "freq": "FM",
+    "mhz": "104.7",
+    "img": "es/images/calimbre.gif",
+    "live": "es/play/cn_calimbre.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "105.4",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "SER Las Palmas",
+    "freq": "FM",
+    "mhz": "106.0",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_laspalmas.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio Calima",
+    "freq": "FM",
+    "mhz": "106.3",
+    "img": "es/images/calima.gif",
+    "live": "es/play/cn_calima_grancanaria.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "106.8",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_canarias.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "107.1",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "576",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "747",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Gran Canaria",
+    "freq": "OM",
+    "mhz": "837",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_grancanaria.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "OM",
+    "mhz": "1008",
+    "img": "es/images/es.svg",
+    "live": "es/play/es.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  },
+  {
+    "name": "Radio ECCA",
+    "freq": "OM",
+    "mhz": "1269",
+    "img": "es/images/ecca.gif",
+    "live": "es/play/cn_ecca.htm",
+    "city": "Las Palmas",
+    "country": "es"
+  }
+]

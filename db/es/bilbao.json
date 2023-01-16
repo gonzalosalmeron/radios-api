@@ -1,0 +1,515 @@
+[
+  {
+    "name": "Radio Nervión",
+    "freq": "FM",
+    "mhz": "88.0",
+    "img": "es/images/nervion.gif",
+    "live": "es/play/pv_nervion.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio 7",
+    "freq": "FM",
+    "mhz": "88.5",
+    "img": "es/images/radio7-bilbao.gif",
+    "live": "es/play/pv_radio7.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Euskadi Irratia",
+    "freq": "FM",
+    "mhz": "88.9",
+    "img": "es/images/eitb-irratia.gif",
+    "live": "es/play/eitb-irratia.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Capital Radio",
+    "freq": "FM",
+    "mhz": "89.2",
+    "img": "es/images/capital.gif",
+    "live": "es/play/capital.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "89.5",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Nervión",
+    "freq": "FM",
+    "mhz": "89.8",
+    "img": "es/images/nervion.gif",
+    "live": "es/play/pv_nervion.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Onda Vasca",
+    "freq": "FM",
+    "mhz": "90.1",
+    "img": "es/images/ondavasca.gif",
+    "live": "es/play/pv_ondavasca-bizkaia.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Actívate FM",
+    "freq": "FM",
+    "mhz": "90.3",
+    "img": "es/images/activate.gif",
+    "live": "es/play/pv_activate.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "90.6",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Nervión",
+    "freq": "FM",
+    "mhz": "90.9",
+    "img": "es/images/nervion.gif",
+    "live": "es/play/pv_nervion.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Antxeta Irratia",
+    "freq": "FM",
+    "mhz": "91.4",
+    "img": "es/images/antxeta.gif",
+    "live": "es/play/pv_antxeta.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Radio Euskadi",
+    "freq": "FM",
+    "mhz": "91.7",
+    "img": "es/images/eitb-radio.gif",
+    "live": "es/play/eitb-radio.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Pepe Radio",
+    "freq": "FM",
+    "mhz": "92.0",
+    "img": "es/images/pepe.gif",
+    "live": "es/play/md_pepe.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Naiz Irratia",
+    "freq": "FM",
+    "mhz": "92.2",
+    "img": "es/images/naiz.gif",
+    "live": "es/play/pv_naiz.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "92.7",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "bi fm",
+    "freq": "FM",
+    "mhz": "92.9",
+    "img": "es/images/bidebieta.gif",
+    "live": "es/play/pv_bifm.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Bilbao",
+    "freq": "FM",
+    "mhz": "93.2",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_bilbao.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Bilbao",
+    "freq": "FM",
+    "mhz": "94.0",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_bilbao.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Líder",
+    "freq": "FM",
+    "mhz": "94.3",
+    "img": "es/images/lider.gif",
+    "live": "es/play/lider_paisvasco.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Gaztea",
+    "freq": "FM",
+    "mhz": "94.7",
+    "img": "es/images/eitb-gaztea.gif",
+    "live": "es/play/eitb-gaztea.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Oye Radio",
+    "freq": "FM",
+    "mhz": "95.8",
+    "img": "es/images/oye.gif",
+    "live": "http://www.twitter.com/oye_radio",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Bilbo Hiria Irratia",
+    "freq": "FM",
+    "mhz": "96.0",
+    "img": "es/images/bilbohiria.gif",
+    "live": "es/play/pv_bilbohiria.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "96.3",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "97 Irrati Librea",
+    "freq": "FM",
+    "mhz": "97.0",
+    "img": "es/images/97irratia.gif",
+    "live": "es/play/pv_97irratia.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "COPE Bilbao",
+    "freq": "FM",
+    "mhz": "97.8",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_bilbao.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Nuevo Tiempo",
+    "freq": "FM",
+    "mhz": "98.1",
+    "img": "us/images/hope.gif",
+    "live": "es/play/nuevotiempo.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "98.4",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "98.8",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "99.2",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "99.7",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "EiTB Musika",
+    "freq": "FM",
+    "mhz": "100.1",
+    "img": "es/images/eitb-musika.gif",
+    "live": "es/play/eitb-musika.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Popular - Herri Irratia",
+    "freq": "FM",
+    "mhz": "100.4",
+    "img": "es/images/popular.gif",
+    "live": "es/play/pv_popular.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "100.7",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio La Mega",
+    "freq": "FM",
+    "mhz": "101.2",
+    "img": "es/images/lamega-bilbao.gif",
+    "live": "http://fb.com/lamegabilbao",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "101.5",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_bilbao.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Esperanza",
+    "freq": "FM",
+    "mhz": "101.7",
+    "img": "es/images/esperanza.gif",
+    "live": "http://fb.com/RadioEsperanzaEuropa",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Zopinpa Irratia",
+    "freq": "FM",
+    "mhz": "101.9",
+    "img": "es/images/zopinpa.gif",
+    "live": "http://www.zopinpairratia.com/",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Fórmula Hit",
+    "freq": "FM",
+    "mhz": "102.3",
+    "img": "es/images/formulahit.gif",
+    "live": "es/play/formulahit_paisvasco.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Bizkaia Irratia",
+    "freq": "FM",
+    "mhz": "102.6",
+    "img": "es/images/bizkaia.gif",
+    "live": "es/play/pv_bizkaia.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Tropical",
+    "freq": "FM",
+    "mhz": "102.9",
+    "img": "es/images/tropical-bilbao.gif",
+    "live": "es/play/pv_tropical.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "103.4",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_bilbao.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "103.7",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Melodía FM",
+    "freq": "FM",
+    "mhz": "104.0",
+    "img": "es/images/melodia.svg",
+    "live": "es/play/melodia.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "104.3",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "104.8",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "105.0",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Solidaria",
+    "freq": "FM",
+    "mhz": "105.5",
+    "img": "es/images/solidaria.gif",
+    "live": "es/play/solidaria.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Dynamis Radio",
+    "freq": "FM",
+    "mhz": "106.2",
+    "img": "es/images/dynamis.gif",
+    "live": "es/play/dynamis.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Éxito Radio",
+    "freq": "FM",
+    "mhz": "106.7",
+    "img": "es/images/exito.gif",
+    "live": "es/play/exito.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Radio Bilbao",
+    "freq": "FM",
+    "mhz": "107.0",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_bilbao-mas.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Tular Irratia",
+    "freq": "FM",
+    "mhz": "107.2",
+    "img": "es/images/tular.gif",
+    "live": "es/play/pv_tular.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio La Perseverancia",
+    "freq": "FM",
+    "mhz": "107.3",
+    "img": "es/images/laperseverancia.gif",
+    "live": "http://fb.com/radiolaperseverancia",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Irola Irratia",
+    "freq": "FM",
+    "mhz": "107.5",
+    "img": "es/images/irola.gif",
+    "live": "es/play/pv_irola.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "639",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "Radio Popular - Herri Irratia",
+    "freq": "OM",
+    "mhz": "900",
+    "img": "es/images/popular.gif",
+    "live": "es/play/pv_popular.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Bilbao",
+    "freq": "OM",
+    "mhz": "990",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_bilbao.htm",
+    "city": "Bilbao",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "1305",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Bilbao",
+    "country": "es"
+  }
+]

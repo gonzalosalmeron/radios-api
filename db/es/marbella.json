@@ -1,0 +1,344 @@
+[
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "87.6",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "88.7",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "89.4",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Informa Radio",
+    "freq": "FM",
+    "mhz": "89.6",
+    "img": "es/images/informa.gif",
+    "live": "es/play/informa.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Memory FM",
+    "freq": "FM",
+    "mhz": "90.4",
+    "img": "es/images/memory.gif",
+    "live": "es/play/an_memory.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Canal Fiesta",
+    "freq": "FM",
+    "mhz": "91.1",
+    "img": "es/images/rtva-canalfiesta.svg",
+    "live": "es/play/rtva-canalfiesta.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Spectrum FM",
+    "freq": "FM",
+    "mhz": "91.3",
+    "img": "es/images/spectrum.gif",
+    "live": "es/play/spectrum.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Chilli FM",
+    "freq": "FM",
+    "mhz": "91.5",
+    "img": "es/images/chilli.gif",
+    "live": "es/play/an_chilli.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Oxígeno FM",
+    "freq": "FM",
+    "mhz": "91.7",
+    "img": "es/images/oxigeno-marbella.gif",
+    "live": "es/play/an_oxigeno-marbella.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Nostalgia",
+    "freq": "FM",
+    "mhz": "92.4",
+    "img": "es/images/cadena-nostalgia.gif",
+    "live": "es/play/cadena-nostalgia.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Radio Planeta",
+    "freq": "FM",
+    "mhz": "92.8",
+    "img": "es/images/planeta.gif",
+    "live": "es/play/an_planeta.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "93.3",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Who! Radio",
+    "freq": "FM",
+    "mhz": "94.2",
+    "img": "es/images/who.gif",
+    "live": "es/play/who.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Radio Oro",
+    "freq": "FM",
+    "mhz": "94.4",
+    "img": "es/images/oro.gif",
+    "live": "es/play/an_oro-marbella.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Sisu RnB Radio",
+    "freq": "FM",
+    "mhz": "95.2",
+    "img": "es/images/sisu.gif",
+    "live": "http://sisurnbradio.com/",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "SER Marbella Costa del Sol",
+    "freq": "FM",
+    "mhz": "95.4",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_marbella.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Radio Radio Network",
+    "freq": "FM",
+    "mhz": "96.0",
+    "img": "es/images/radioradio.gif",
+    "live": "es/play/an_radioradio.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "The One",
+    "freq": "FM",
+    "mhz": "97.1",
+    "img": "es/images/theone.gif",
+    "live": "es/play/theone.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "97.4",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_marbella.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Радио Матрёшка",
+    "freq": "FM",
+    "mhz": "98.3",
+    "img": "uk/images/matryoshka.gif",
+    "live": "es/play/an_matryoshka.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Canal Sur Radio",
+    "freq": "FM",
+    "mhz": "98.5",
+    "img": "es/images/rtva-canalsur.svg",
+    "live": "es/play/rtva-canalsur_malaga.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Libertad FM",
+    "freq": "FM",
+    "mhz": "99.3",
+    "img": "es/images/libertad.gif",
+    "live": "es/play/libertad.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "100.0",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Jelou Radio",
+    "freq": "FM",
+    "mhz": "100.7",
+    "img": "es/images/jelou.gif",
+    "live": "es/play/an_jelou.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Gozadera FM",
+    "freq": "FM",
+    "mhz": "101.8",
+    "img": "es/images/gozadera.gif",
+    "live": "es/play/an_gozadera.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "COPE Marbella",
+    "freq": "FM",
+    "mhz": "102.2",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_marbella.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Chanquete FM",
+    "freq": "FM",
+    "mhz": "102.5",
+    "img": "es/images/chanquete.gif",
+    "live": "es/play/an_chanquete-costadelsol.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Mindalia Radio",
+    "freq": "FM",
+    "mhz": "102.7",
+    "img": "es/images/mindalia.gif",
+    "live": "es/play/an_mindalia.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Radio Radio Network",
+    "freq": "FM",
+    "mhz": "103.3",
+    "img": "es/images/radioradio.gif",
+    "live": "es/play/an_radioradio.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "BeachGrooves Radio",
+    "freq": "FM",
+    "mhz": "103.5",
+    "img": "es/images/beachgrooves.gif",
+    "live": "es/play/an_beachgrooves.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Central FM",
+    "freq": "FM",
+    "mhz": "103.9",
+    "img": "es/images/centralfm.gif",
+    "live": "es/play/an_centralfm.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Radio Andalucía Información",
+    "freq": "FM",
+    "mhz": "104.3",
+    "img": "es/images/rtva-andaluciainformacion.svg",
+    "live": "es/play/rtva-andaluciainformacion.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "105.3",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "RusRadioMarbella",
+    "freq": "FM",
+    "mhz": "106.2",
+    "img": "es/images/rrm.gif",
+    "live": "es/play/an_rrm.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Tropical FM",
+    "freq": "FM",
+    "mhz": "107.0",
+    "img": "es/images/tropical-marbella.gif",
+    "live": "es/play/an_tropical.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "Radio Estepona",
+    "freq": "FM",
+    "mhz": "107.2",
+    "img": "es/images/estepona.gif",
+    "live": "es/play/an_estepona.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "JammFM Radio",
+    "freq": "FM",
+    "mhz": "107.4",
+    "img": "es/images/jamm.gif",
+    "live": "es/play/an_jamm.htm",
+    "city": "Marbella",
+    "country": "es"
+  },
+  {
+    "name": "RTV Marbella",
+    "freq": "FM",
+    "mhz": "107.6",
+    "img": "es/images/marbella.gif",
+    "live": "es/play/an_marbella.htm",
+    "city": "Marbella",
+    "country": "es"
+  }
+]

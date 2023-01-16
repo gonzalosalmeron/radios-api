@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Madrid",
+    "slug": "madrid",
+    "autComm": "Com. Madrid",
+    "flag": "escudo.madrid.png",
+    "radios": "madrid.htm"
+  },
+  {
+    "name": "Alicante",
+    "slug": "alicante",
+    "autComm": "Com. Valenciana",
+    "flag": "escudo.alicante.png",
+    "radios": "alicante.htm"
+  },
+  {
+    "name": "Barcelona",
+    "slug": "barcelona",
+    "autComm": "Cataluña",
+    "flag": "escudo.barcelona.png",
+    "radios": "barcelona.htm"
+  },
+  {
+    "name": "Bilbao",
+    "slug": "bilbao",
+    "autComm": "País Vasco",
+    "flag": "escudo.bilbao.png",
+    "radios": "bilbao.htm"
+  },
+  {
+    "name": "Córdoba",
+    "slug": "cordoba",
+    "autComm": "Andalucía",
+    "flag": "escudo.cordoba.png",
+    "radios": "cordoba.htm"
+  },
+  {
+    "name": "La Coruña",
+    "slug": "coruna",
+    "autComm": "Galicia",
+    "flag": "escudo.coruna.png",
+    "radios": "coruna.htm"
+  },
+  {
+    "name": "Las Palmas",
+    "slug": "las-palmas",
+    "autComm": "Canarias",
+    "flag": "escudo.las-palmas.png",
+    "radios": "las-palmas.htm"
+  },
+  {
+    "name": "Málaga",
+    "slug": "malaga",
+    "autComm": "Andalucía",
+    "flag": "escudo.malaga.png",
+    "radios": "malaga.htm"
+  },
+  {
+    "name": "Marbella",
+    "slug": "marbella",
+    "autComm": "Andalucía",
+    "flag": "escudo.marbella.png",
+    "radios": "marbella.htm"
+  },
+  {
+    "name": "Murcia",
+    "slug": "murcia",
+    "autComm": "Murcia",
+    "flag": "escudo.murcia.png",
+    "radios": "murcia.htm"
+  },
+  {
+    "name": "Oviedo",
+    "slug": "oviedo",
+    "autComm": "Asturias",
+    "flag": "escudo.oviedo.png",
+    "radios": "oviedo.htm"
+  },
+  {
+    "name": "Palma de Mallorca",
+    "slug": "palma",
+    "autComm": "Baleares",
+    "flag": "escudo.palma.png",
+    "radios": "palma.htm"
+  },
+  {
+    "name": "San Sebastián",
+    "slug": "san-sebastian",
+    "autComm": "País Vasco",
+    "flag": "escudo.san-sebastian.png",
+    "radios": "san-sebastian.htm"
+  },
+  {
+    "name": "Santa Cruz",
+    "slug": "santa-cruz",
+    "autComm": "Canarias",
+    "flag": "escudo.santa-cruz.png",
+    "radios": "santa-cruz.htm"
+  },
+  {
+    "name": "Sevilla",
+    "slug": "sevilla",
+    "autComm": "Andalucía",
+    "flag": "escudo.sevilla.png",
+    "radios": "sevilla.htm"
+  },
+  {
+    "name": "Valladolid",
+    "slug": "valladolid",
+    "autComm": "Castilla y León",
+    "flag": "escudo.valladolid.png",
+    "radios": "valladolid.htm"
+  },
+  {
+    "name": "Valencia",
+    "slug": "valencia",
+    "autComm": "Com. Valenciana",
+    "flag": "escudo.valencia.png",
+    "radios": "valencia.htm"
+  },
+  {
+    "name": "Vigo",
+    "slug": "vigo",
+    "autComm": "Galicia",
+    "flag": "escudo.vigo.png",
+    "radios": "vigo.htm"
+  },
+  {
+    "name": "Zaragoza",
+    "slug": "zaragoza",
+    "autComm": "Aragón",
+    "flag": "escudo.zaragoza.png",
+    "radios": "zaragoza.htm"
+  }
+]

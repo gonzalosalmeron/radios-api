@@ -1,0 +1,488 @@
+[
+  {
+    "name": "La Revoltosa FM",
+    "freq": "FM",
+    "mhz": "87.6",
+    "img": "es/images/revoltosa.gif",
+    "live": "http://fb.com/larevoltosafm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Radio Giralda",
+    "freq": "FM",
+    "mhz": "88.0",
+    "img": "es/images/giralda.gif",
+    "live": "es/play/an_giralda.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Gozadera FM",
+    "freq": "FM",
+    "mhz": "88.8",
+    "img": "es/images/gozadera.gif",
+    "live": "es/play/an_gozadera.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "89.2",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Babyradio",
+    "freq": "FM",
+    "mhz": "89.6",
+    "img": "es/images/baby.gif",
+    "live": "es/play/baby.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "90.0",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Neo FM",
+    "freq": "FM",
+    "mhz": "90.4",
+    "img": "es/images/neofm.gif",
+    "live": "es/play/an_neofm.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "La Fresca FM",
+    "freq": "FM",
+    "mhz": "90.7",
+    "img": "es/images/lafresca.gif",
+    "live": "es/play/lafresca.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Hit FM",
+    "freq": "FM",
+    "mhz": "90.9",
+    "img": "es/images/hitfm.gif",
+    "live": "es/play/hitfm.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "91.2",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "SFC Radio",
+    "freq": "FM",
+    "mhz": "91.6",
+    "img": "es/images/sfc.gif",
+    "live": "es/play/an_sfc.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Vida FM",
+    "freq": "FM",
+    "mhz": "91.8",
+    "img": "es/images/vida-madrid.gif",
+    "live": "es/play/vida.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Radiópolis Radio",
+    "freq": "FM",
+    "mhz": "92.3",
+    "img": "es/images/radiopolis.gif",
+    "live": "es/play/an_radiopolis.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Capital Radio",
+    "freq": "FM",
+    "mhz": "92.5",
+    "img": "es/images/capital.gif",
+    "live": "es/play/capital.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "93.0",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "La Rumbera",
+    "freq": "FM",
+    "mhz": "93.4",
+    "img": "es/images/larumbera.gif",
+    "live": "es/play/an_larumbera.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "93.7",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "94.0",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_sevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Radio Andalucía Información",
+    "freq": "FM",
+    "mhz": "94.3",
+    "img": "es/images/rtva-andaluciainformacion.svg",
+    "live": "es/play/rtva-andaluciainformacion.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "94.8",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Onda Capital",
+    "freq": "FM",
+    "mhz": "95.1",
+    "img": "es/images/ondacapital.gif",
+    "live": "es/play/an_ondacapital.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Decisión Radio",
+    "freq": "FM",
+    "mhz": "95.6",
+    "img": "es/images/decision.gif",
+    "live": "es/play/decision.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "95.9",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_sevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Radio Sevilla",
+    "freq": "FM",
+    "mhz": "96.5",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_sevilla-mas.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Radio Betis",
+    "freq": "FM",
+    "mhz": "96.8",
+    "img": "es/images/betis.gif",
+    "live": "es/play/an_betis.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "97.1",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Loca Urban",
+    "freq": "FM",
+    "mhz": "97.4",
+    "img": "es/images/loca-urban.gif",
+    "live": "es/play/loca-urban.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "StereoVisión Radio",
+    "freq": "FM",
+    "mhz": "97.7",
+    "img": "es/images/stereovision.gif",
+    "live": "es/play/an_stereovision977.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "98.8",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "COPE Sevilla",
+    "freq": "FM",
+    "mhz": "99.6",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_sevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "100.3",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Dynamis Radio",
+    "freq": "FM",
+    "mhz": "100.8",
+    "img": "es/images/dynamis.gif",
+    "live": "es/play/dynamis.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Máster FM",
+    "freq": "FM",
+    "mhz": "101.1",
+    "img": "es/images/master.gif",
+    "live": "es/play/master_sevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Radiolé",
+    "freq": "FM",
+    "mhz": "101.5",
+    "img": "es/images/radiole.svg",
+    "live": "es/play/radiole.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Nostalgia",
+    "freq": "FM",
+    "mhz": "101.8",
+    "img": "es/images/cadena-nostalgia.gif",
+    "live": "es/play/cadena-nostalgia.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Integración Radio",
+    "freq": "FM",
+    "mhz": "102.1",
+    "img": "es/images/integracion.gif",
+    "live": "es/play/an_integracion.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "102.4",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Sevilla",
+    "freq": "FM",
+    "mhz": "103.2",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_sevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Rumbera Network",
+    "freq": "FM",
+    "mhz": "103.5",
+    "img": "ve/images/rumberanetwork.gif",
+    "live": "es/play/an_rumbera.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Canal Fiesta",
+    "freq": "FM",
+    "mhz": "103.9",
+    "img": "es/images/rtva-canalfiesta.svg",
+    "live": "es/play/rtva-canalfiesta.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Informa Radio",
+    "freq": "FM",
+    "mhz": "104.1",
+    "img": "es/images/informa.gif",
+    "live": "es/play/informa.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Radio Solidaria",
+    "freq": "FM",
+    "mhz": "104.4",
+    "img": "es/images/solidaria.gif",
+    "live": "es/play/solidaria.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Canal Sur Radio",
+    "freq": "FM",
+    "mhz": "105.1",
+    "img": "es/images/rtva-canalsur.svg",
+    "live": "es/play/rtva-canalsur_sevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "105.5",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Sevilla",
+    "freq": "FM",
+    "mhz": "105.8",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_sevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Onda Sevilla Radio",
+    "freq": "FM",
+    "mhz": "106.2",
+    "img": "es/images/ondasevilla.gif",
+    "live": "es/play/an_ondasevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Melodía FM",
+    "freq": "FM",
+    "mhz": "106.5",
+    "img": "es/images/melodia.svg",
+    "live": "es/play/melodia.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "106.9",
+    "img": "es/images/es.svg",
+    "live": "es/play/es_sevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "603",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "684",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Sevilla",
+    "freq": "OM",
+    "mhz": "792",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_sevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "COPE Sevilla",
+    "freq": "OM",
+    "mhz": "837",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_sevilla.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Flamenco Radio",
+    "freq": "Online",
+    "mhz": "",
+    "img": "es/images/rtva-flamenco.svg",
+    "live": "es/play/rtva-flamenco.htm",
+    "city": "Sevilla",
+    "country": "es"
+  },
+  {
+    "name": "Canal Sur Radio Música",
+    "freq": "Online",
+    "mhz": "",
+    "img": "es/images/rtva-musica.svg",
+    "live": "es/play/rtva-musica.htm",
+    "city": "Sevilla",
+    "country": "es"
+  }
+]

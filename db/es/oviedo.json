@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "88.9",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "89.4",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Decisión Radio",
+    "freq": "FM",
+    "mhz": "89.6",
+    "img": "es/images/decision.gif",
+    "live": "es/play/decision.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "90.3",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "90.7",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "91.1",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "92.2",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "92.8",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "93.2",
+    "img": "es/images/es.svg",
+    "live": "es/play/es_asturias.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Xtrema FM",
+    "freq": "FM",
+    "mhz": "93.8",
+    "img": "es/images/xtrema.gif",
+    "live": "es/play/as_xtrema.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Carrusel FM",
+    "freq": "FM",
+    "mhz": "94.1",
+    "img": "es/images/carrusel.gif",
+    "live": "es/play/as_carrusel.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "94.4",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "95.2",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "96.0",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Radio Líder",
+    "freq": "FM",
+    "mhz": "96.2",
+    "img": "es/images/lider.gif",
+    "live": "es/play/lider_asturias.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "97.0",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "97.5",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "COPE Asturias",
+    "freq": "FM",
+    "mhz": "97.9",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_asturias.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Tropicana Asturias Radio",
+    "freq": "FM",
+    "mhz": "98.9",
+    "img": "es/images/tropicana-asturias.gif",
+    "live": "http://fb.com/TropicanaAsturiasRadio",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "99.6",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Asturias",
+    "freq": "FM",
+    "mhz": "100.9",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_asturias.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "101.1",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "101.7",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_asturias.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "102.5",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "La Fresca FM",
+    "freq": "FM",
+    "mhz": "104.2",
+    "img": "es/images/lafresca.gif",
+    "live": "es/play/lafresca.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "104.4",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "105.0",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_asturias.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Radio del Principado de Asturias",
+    "freq": "FM",
+    "mhz": "105.4",
+    "img": "es/images/rtpa.gif",
+    "live": "es/play/rtpa-asturias.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "APQ La Jungla Radio",
+    "freq": "FM",
+    "mhz": "106.1",
+    "img": "es/images/lajungla.gif",
+    "live": "es/play/as_apq1061.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Radio del Principado de Asturias",
+    "freq": "FM",
+    "mhz": "106.4",
+    "img": "es/images/rtpa.gif",
+    "live": "es/play/rtpa-asturias.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "Radio QK",
+    "freq": "FM",
+    "mhz": "107.3",
+    "img": "es/images/qk.gif",
+    "live": "es/play/as_qk.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "531",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "729",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Oviedo",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Asturias",
+    "freq": "OM",
+    "mhz": "1026",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_asturias.htm",
+    "city": "Oviedo",
+    "country": "es"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "RAC1",
+    "freq": "FM",
+    "mhz": "87.7",
+    "img": "es/images/rac1.gif",
+    "live": "es/play/ct_rac1.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "88.3",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Melodía FM",
+    "freq": "FM",
+    "mhz": "88.7",
+    "img": "es/images/melodia.svg",
+    "live": "es/play/melodia.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Dynamis Radio",
+    "freq": "FM",
+    "mhz": "88.9",
+    "img": "es/images/dynamis.gif",
+    "live": "es/play/dynamis.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "89.1",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_barcelona.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Digital Hits FM",
+    "freq": "FM",
+    "mhz": "89.5",
+    "img": "es/images/digitalhits.gif",
+    "live": "es/play/ct_digitalhits.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "89.8",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Boca Ràdio",
+    "freq": "FM",
+    "mhz": "90.1",
+    "img": "es/images/boca.gif",
+    "live": "es/play/ct_boca.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "90.5",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "betevé ràdio",
+    "freq": "FM",
+    "mhz": "91.0",
+    "img": "es/images/beteve.gif",
+    "live": "es/play/ct_beteve.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Gran Vía Ràdio",
+    "freq": "FM",
+    "mhz": "91.2",
+    "img": "es/images/granvia.gif",
+    "live": "es/play/ct_granvia.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Contrabanda FM",
+    "freq": "FM",
+    "mhz": "91.4",
+    "img": "es/images/contrabanda.gif",
+    "live": "es/play/ct_contrabanda.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "CCMA Catalunya Informació",
+    "freq": "FM",
+    "mhz": "92.0",
+    "img": "es/images/ccma-informacio.gif",
+    "live": "es/play/ccma-informacio.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "CCMA iCat",
+    "freq": "FM",
+    "mhz": "92.5",
+    "img": "es/images/ccma-icat.gif",
+    "live": "es/play/ccma-icat.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "93.0",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "93.5",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_barcelona.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Els 40",
+    "freq": "FM",
+    "mhz": "93.9",
+    "img": "es/images/los40_cat.svg",
+    "live": "es/play/los40_cat.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Ona de Sants-Montjuïc",
+    "freq": "FM",
+    "mhz": "94.6",
+    "img": "es/images/onadesantsmontjuic.gif",
+    "live": "es/play/ct_onadesantsmontjuic.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "94.9",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "La Movida Latina",
+    "freq": "FM",
+    "mhz": "95.2",
+    "img": "es/images/lamovida.gif",
+    "live": "es/play/ct_lamovida.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "95.5",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Urban",
+    "freq": "FM",
+    "mhz": "96.0",
+    "img": "es/images/los40-urban.svg",
+    "live": "es/play/los40-urban.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Hits Latinos",
+    "freq": "FM",
+    "mhz": "96.3",
+    "img": "es/images/hitslatinos.gif",
+    "live": "http://fb.com/hitslatinoscom/",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "SER Ràdio Barcelona",
+    "freq": "FM",
+    "mhz": "96.9",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_barcelona.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Radio Intereconomía",
+    "freq": "FM",
+    "mhz": "97.4",
+    "img": "es/images/intereconomia.svg",
+    "live": "es/play/intereconomia.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Ràdio TeleTaxi",
+    "freq": "FM",
+    "mhz": "97.7",
+    "img": "es/images/rtt.gif",
+    "live": "es/play/rtt.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Ràdio Hostafrancs",
+    "freq": "FM",
+    "mhz": "98.0",
+    "img": "es/images/hostafrancs.gif",
+    "live": "es/play/ct_hostafrancs.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "98.6",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "99.0",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "7deRàdio",
+    "freq": "FM",
+    "mhz": "99.2",
+    "img": "es/images/7de.gif",
+    "live": "es/play/ct_7de.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "99.4",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "100.0",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Ràdio Ciutat Vella",
+    "freq": "FM",
+    "mhz": "100.5",
+    "img": "es/images/ciutatvella.gif",
+    "live": "es/play/ct_ciutatvella.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "RNE Ràdio 4",
+    "freq": "FM",
+    "mhz": "100.8",
+    "img": "es/images/rne-radio4.svg",
+    "live": "es/play/rne-radio4.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Vida FM",
+    "freq": "FM",
+    "mhz": "101.0",
+    "img": "es/images/vida-madrid.gif",
+    "live": "es/play/vida.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "CCMA CatMúsica",
+    "freq": "FM",
+    "mhz": "101.5",
+    "img": "es/images/ccma-musica.gif",
+    "live": "es/play/ccma-musica.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "COPE Catalunya",
+    "freq": "FM",
+    "mhz": "102.0",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_barcelona.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Radio Inter",
+    "freq": "FM",
+    "mhz": "102.3",
+    "img": "es/images/inter.gif",
+    "live": "es/play/inter.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "La Marina FM",
+    "freq": "FM",
+    "mhz": "102.5",
+    "img": "es/images/lamarina.gif",
+    "live": "es/play/ct_lamarina.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "CCMA Catalunya Ràdio",
+    "freq": "FM",
+    "mhz": "102.8",
+    "img": "es/images/ccma-catalunya.gif",
+    "live": "es/play/ccma-catalunya.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Loca Urban",
+    "freq": "FM",
+    "mhz": "103.0",
+    "img": "es/images/loca-urban.gif",
+    "live": "es/play/loca-urban.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Sants 3 Ràdio",
+    "freq": "FM",
+    "mhz": "103.2",
+    "img": "es/images/sants3.gif",
+    "live": "es/play/ct_sants3.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "SER Catalunya",
+    "freq": "FM",
+    "mhz": "103.5",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_catalunya.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Fem Ràdio",
+    "freq": "FM",
+    "mhz": "104.0",
+    "img": "es/images/fem.gif",
+    "live": "http://www.femradio.es/",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Urban",
+    "freq": "FM",
+    "mhz": "104.2",
+    "img": "es/images/los40-urban.svg",
+    "live": "es/play/los40-urban.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Radio Bronka",
+    "freq": "FM",
+    "mhz": "104.5",
+    "img": "es/images/bronka.gif",
+    "live": "es/play/ct_bronka.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "RAC105",
+    "freq": "FM",
+    "mhz": "105.0",
+    "img": "es/images/rac105.gif",
+    "live": "es/play/ct_rac105.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Flaix FM",
+    "freq": "FM",
+    "mhz": "105.7",
+    "img": "es/images/flaix.gif",
+    "live": "es/play/ct_flaixfm.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Ràdio Flaixbac",
+    "freq": "FM",
+    "mhz": "106.1",
+    "img": "es/images/flaixbac.gif",
+    "live": "es/play/ct_flaixbac.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Ràdio Estel",
+    "freq": "FM",
+    "mhz": "106.6",
+    "img": "es/images/estel.gif",
+    "live": "es/play/ct_estel.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Ràdio Kanal Barcelona",
+    "freq": "FM",
+    "mhz": "106.9",
+    "img": "es/images/kanalbarcelona.gif",
+    "live": "es/play/ct_kanalbarcelona.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Radio Bona Nova",
+    "freq": "FM",
+    "mhz": "107.1",
+    "img": "es/images/bonanova.gif",
+    "live": "es/play/ct_bonanova.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Flipa FM",
+    "freq": "FM",
+    "mhz": "107.5",
+    "img": "es/images/flipa.gif",
+    "live": "es/play/ct_flipa.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Ràdio Gràcia",
+    "freq": "FM",
+    "mhz": "107.7",
+    "img": "es/images/gracia.gif",
+    "live": "http://barcelona.cat/radiogracia",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Radio Amistad",
+    "freq": "FM",
+    "mhz": "107.9",
+    "img": "es/images/amistad.gif",
+    "live": "es/play/amistad.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "OM",
+    "mhz": "540",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_barcelona.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "576",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "SER Ràdio Barcelona",
+    "freq": "OM",
+    "mhz": "666",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_barcelona.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "OM",
+    "mhz": "738",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Barcelona",
+    "country": "es"
+  },
+  {
+    "name": "COPE Catalunya",
+    "freq": "OM",
+    "mhz": "783",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_barcelona.htm",
+    "city": "Barcelona",
+    "country": "es"
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "name": "COPE Córdoba",
+    "freq": "FM",
+    "mhz": "87.6",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_cordoba.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "88.4",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Loca Urban",
+    "freq": "FM",
+    "mhz": "88.9",
+    "img": "es/images/loca-urban.gif",
+    "live": "es/play/loca-urban.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Decisión Radio",
+    "freq": "FM",
+    "mhz": "89.2",
+    "img": "es/images/decision.gif",
+    "live": "es/play/decision.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "89.7",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_cordoba.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Nostalgia",
+    "freq": "FM",
+    "mhz": "90.2",
+    "img": "es/images/cadena-nostalgia.gif",
+    "live": "es/play/cadena-nostalgia.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Éxito Radio",
+    "freq": "FM",
+    "mhz": "90.5",
+    "img": "es/images/exito.gif",
+    "live": "es/play/exito.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Radio Intercórdoba",
+    "freq": "FM",
+    "mhz": "91.1",
+    "img": "es/images/intercordoba.gif",
+    "live": "http://fb.com/intercordoba.es",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Jelou Radio",
+    "freq": "FM",
+    "mhz": "91.7",
+    "img": "es/images/jelou.gif",
+    "live": "es/play/an_jelou.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "91.4",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "92.2",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "93.1",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Córdoba",
+    "freq": "FM",
+    "mhz": "93.5",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_cordoba.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Radio Solidaria",
+    "freq": "FM",
+    "mhz": "93.9",
+    "img": "es/images/solidaria.gif",
+    "live": "es/play/solidaria.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Sol FM",
+    "freq": "FM",
+    "mhz": "94.4",
+    "img": "es/images/sol-cordoba.gif",
+    "live": "es/play/an_sol-cordoba.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "96.6",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "97.0",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "97.5",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Gozadera FM",
+    "freq": "FM",
+    "mhz": "98.1",
+    "img": "es/images/gozadera.gif",
+    "live": "es/play/an_gozadera.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "98.6",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Radio Armonía",
+    "freq": "FM",
+    "mhz": "99.1",
+    "img": "es/images/armonia.gif",
+    "live": "es/play/an_armonia.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "99.8",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "La Fresca FM",
+    "freq": "FM",
+    "mhz": "100.4",
+    "img": "es/images/lafresca.gif",
+    "live": "es/play/lafresca.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Canal Fiesta",
+    "freq": "FM",
+    "mhz": "101.3",
+    "img": "es/images/rtva-canalfiesta.svg",
+    "live": "es/play/rtva-canalfiesta.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Radio Córdoba",
+    "freq": "FM",
+    "mhz": "102.0",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_cordoba-mas.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Oasis FM",
+    "freq": "FM",
+    "mhz": "102.3",
+    "img": "es/images/oasis-cordoba.gif",
+    "live": "http://oasisfm.es/",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Orilla Izquierda Radio",
+    "freq": "FM",
+    "mhz": "102.6",
+    "img": "es/images/oir.gif",
+    "live": "es/play/an_orillaizquierda.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Radio Radio Network",
+    "freq": "FM",
+    "mhz": "102.9",
+    "img": "es/images/radioradio.gif",
+    "live": "es/play/an_radioradio.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Radio Andalucía Información",
+    "freq": "FM",
+    "mhz": "103.1",
+    "img": "es/images/rtva-andaluciainformacion.svg",
+    "live": "es/play/rtva-andaluciainformacion.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Canal Sur Radio",
+    "freq": "FM",
+    "mhz": "103.6",
+    "img": "es/images/rtva-canalsur.svg",
+    "live": "es/play/rtva-canalsur_cordoba.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Informa Radio",
+    "freq": "FM",
+    "mhz": "104.9",
+    "img": "es/images/informa.gif",
+    "live": "es/play/informa.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "105.2",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "La Rumbera",
+    "freq": "FM",
+    "mhz": "105.8",
+    "img": "es/images/larumbera.gif",
+    "live": "es/play/an_larumbera.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Intimidad Radio",
+    "freq": "FM",
+    "mhz": "106.4",
+    "img": "es/images/intimidad.gif",
+    "live": "es/play/an_intimidad.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "106.7",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "",
+    "freq": "FM",
+    "mhz": "107.0",
+    "img": "2015/images/nologo.svg",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Aire Libre",
+    "freq": "FM",
+    "mhz": "107.3",
+    "img": "es/images/airelibre.gif",
+    "live": "es/play/an_airelibre.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "Onda Palmeras",
+    "freq": "FM",
+    "mhz": "107.9",
+    "img": "es/images/ondapalmeras.gif",
+    "live": "es/play/an_ondapalmeras.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "531",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "COPE Córdoba",
+    "freq": "OM",
+    "mhz": "1215",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_cordoba.htm",
+    "city": "Córdoba",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Córdoba",
+    "freq": "OM",
+    "mhz": "1575",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_cordoba.htm",
+    "city": "Córdoba",
+    "country": "es"
+  }
+]

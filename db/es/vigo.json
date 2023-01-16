@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Vida FM",
+    "freq": "FM",
+    "mhz": "87.5",
+    "img": "es/images/vida-madrid.gif",
+    "live": "es/play/vida.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "COPE Vigo",
+    "freq": "FM",
+    "mhz": "87.8",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_vigo.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "",
+    "freq": "FM",
+    "mhz": "88.1",
+    "img": "es/images/sport-vigo.gif",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Decisión Radio",
+    "freq": "FM",
+    "mhz": "88.4",
+    "img": "es/images/decision.gif",
+    "live": "es/play/decision.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Europa FM",
+    "freq": "FM",
+    "mhz": "88.7",
+    "img": "es/images/europa.svg",
+    "live": "es/play/europa.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Loca FM",
+    "freq": "FM",
+    "mhz": "89.4",
+    "img": "es/images/loca.gif",
+    "live": "es/play/loca.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Nacional",
+    "freq": "FM",
+    "mhz": "90.1",
+    "img": "es/images/rne-nacional.svg",
+    "live": "es/play/rne-nacional.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Hit FM",
+    "freq": "FM",
+    "mhz": "90.5",
+    "img": "es/images/hitfm.gif",
+    "live": "es/play/hitfm.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "CRTVG Radio Galega Música",
+    "freq": "FM",
+    "mhz": "90.8",
+    "img": "es/images/crtvg-rgm.gif",
+    "live": "es/play/crtvg-rgm.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Radio Líder",
+    "freq": "FM",
+    "mhz": "91.1",
+    "img": "es/images/lider.gif",
+    "live": "es/play/lider_galicia.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio Clásica",
+    "freq": "FM",
+    "mhz": "92.1",
+    "img": "es/images/rne-clasica.svg",
+    "live": "es/play/rne-clasica.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Dynamis Radio",
+    "freq": "FM",
+    "mhz": "92.4",
+    "img": "es/images/dynamis.gif",
+    "live": "es/play/dynamis.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Loca Urban",
+    "freq": "FM",
+    "mhz": "93.3",
+    "img": "es/images/loca-urban.gif",
+    "live": "es/play/loca-urban.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "SER+ Radio Vigo",
+    "freq": "FM",
+    "mhz": "93.7",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_vigo.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Kiss FM",
+    "freq": "FM",
+    "mhz": "94.0",
+    "img": "es/images/kiss.svg",
+    "live": "es/play/kiss.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Antena 5 Radio",
+    "freq": "FM",
+    "mhz": "94.4",
+    "img": "es/images/antena5.gif",
+    "live": "http://fb.com/Antena5R5G",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "CRTVG Radio Galega",
+    "freq": "FM",
+    "mhz": "95.1",
+    "img": "es/images/crtvg-rg.gif",
+    "live": "es/play/crtvg-rg.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "EISV Radio",
+    "freq": "FM",
+    "mhz": "95.7",
+    "img": "es/images/eisv.gif",
+    "live": "http://eisv.net/",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "FM",
+    "mhz": "96.0",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Cadena 100",
+    "freq": "FM",
+    "mhz": "96.5",
+    "img": "es/images/cadena100.svg",
+    "live": "es/play/cadena100.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Cadena Dial",
+    "freq": "FM",
+    "mhz": "96.9",
+    "img": "es/images/dial.svg",
+    "live": "es/play/cadena-dial.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 3",
+    "freq": "FM",
+    "mhz": "97.4",
+    "img": "es/images/rne-radio3.svg",
+    "live": "es/play/rne-radio3.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Radio Marca",
+    "freq": "FM",
+    "mhz": "98.3",
+    "img": "es/images/marca.svg",
+    "live": "es/play/marca_vigo.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Los 40",
+    "freq": "FM",
+    "mhz": "99.4",
+    "img": "es/images/los40.svg",
+    "live": "es/play/los40.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Informa Radio",
+    "freq": "FM",
+    "mhz": "99.7",
+    "img": "es/images/informa.gif",
+    "live": "es/play/informa.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Vigo",
+    "freq": "FM",
+    "mhz": "100.6",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_vigo.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Los 40 Classic",
+    "freq": "FM",
+    "mhz": "101.2",
+    "img": "es/images/los40-classic.svg",
+    "live": "es/play/los40-classic.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "esRadio",
+    "freq": "FM",
+    "mhz": "101.9",
+    "img": "es/images/es.svg",
+    "live": "es/play/es_galicia.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "CRTVG Radio Galega",
+    "freq": "FM",
+    "mhz": "102.3",
+    "img": "es/images/crtvg-rg.gif",
+    "live": "es/play/crtvg-rg.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Vía Radio",
+    "freq": "FM",
+    "mhz": "102.7",
+    "img": "es/images/via.gif",
+    "live": "es/play/ga_via.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Radio Voz",
+    "freq": "FM",
+    "mhz": "103.8",
+    "img": "es/images/voz.gif",
+    "live": "es/play/ga_voz_vigo.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Radio Solidaria",
+    "freq": "FM",
+    "mhz": "104.1",
+    "img": "es/images/solidaria.gif",
+    "live": "es/play/solidaria.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "COPE Más Vigo",
+    "freq": "FM",
+    "mhz": "104.7",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_vigo.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Onda Cero",
+    "freq": "FM",
+    "mhz": "105.4",
+    "img": "es/images/ondacero.svg",
+    "live": "es/play/onda-cero_vigo.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Melodía FM",
+    "freq": "FM",
+    "mhz": "105.8",
+    "img": "es/images/melodia.svg",
+    "live": "es/play/melodia.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Radio Piratona",
+    "freq": "FM",
+    "mhz": "106.1",
+    "img": "es/images/piratona.gif",
+    "live": "es/play/ga_piratona.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Rock FM",
+    "freq": "FM",
+    "mhz": "106.7",
+    "img": "es/images/rock.svg",
+    "live": "es/play/rock.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "La Voz de Fátima",
+    "freq": "FM",
+    "mhz": "107.2",
+    "img": "es/images/fatima.gif",
+    "live": "http://www.fatimadevigo.es/",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "Si Radio",
+    "freq": "FM",
+    "mhz": "107.7",
+    "img": "es/images/si.gif",
+    "live": "es/play/ga_si_vigo.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "COPE Vigo",
+    "freq": "OM",
+    "mhz": "900",
+    "img": "es/images/cope.svg",
+    "live": "es/play/cope_vigo.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "SER Radio Vigo",
+    "freq": "OM",
+    "mhz": "1026",
+    "img": "es/images/ser.svg",
+    "live": "es/play/ser_vigo.htm",
+    "city": "Vigo",
+    "country": "es"
+  },
+  {
+    "name": "RNE Radio 5",
+    "freq": "OM",
+    "mhz": "1413",
+    "img": "es/images/rne-radio5.svg",
+    "live": "es/play/rne-radio5.htm",
+    "city": "Vigo",
+    "country": "es"
+  }
+]
